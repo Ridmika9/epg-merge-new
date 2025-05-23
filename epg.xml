@@ -4,61 +4,6 @@
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250522000000 +0000" stop="20250522032600 +0000">
-    <title lang="zh">Harry Potter and the Sorcerer's Stone</title>
-    <desc>On his 11th birthday Harry Potter learns he is the orphaned son of two wizards and is invited to attend Hogwarts School of Witchcraft &amp; Wizardry where he embarks on the adventure of a lifetime.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522032600 +0000" stop="20250522070000 +0000">
-    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
-    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522070000 +0000" stop="20250522080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler speak to the daughter of a powerful couple who were found murdered in their bedroom.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522080000 +0000" stop="20250522090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler must determine a murder victim's actual identity when the presumed victim turns up alive.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522090000 +0000" stop="20250522100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler investigate when a 10-year-old girl goes missing.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522100000 +0000" stop="20250522105800 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>When secret information about suspected terrorists goes missing from a secure Department of Defense container at the site of a fire, Sam and Callen must go under cover to investigate.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522105800 +0000" stop="20250522115600 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>When Sam gets a distress code from his son Aiden saying his school is being taken over by an extremist group, the team rushes to San Francisco to free the hostages and protect Aiden.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522115600 +0000" stop="20250522145400 +0000">
-    <title lang="zh">Fantastic Beasts: The Crimes of Grindelwald</title>
-    <desc>The second installment of the Fantastic Beasts series featuring the adventures of Magizoologist Newt Scamander.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522145400 +0000" stop="20250522180100 +0000">
-    <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
-    <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522180100 +0000" stop="20250522212700 +0000">
-    <title lang="zh">Harry Potter and the Sorcerer's Stone</title>
-    <desc>On his 11th birthday Harry Potter learns he is the orphaned son of two wizards and is invited to attend Hogwarts School of Witchcraft &amp; Wizardry where he embarks on the adventure of a lifetime.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522212700 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
-    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="403626" start="20250523010100 +0000" stop="20250523040400 +0000">
     <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
     <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
@@ -94,120 +39,55 @@
     <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme channel="403626" start="20250524000000 +0000" stop="20250525000000 +0000">
+  <programme channel="403626" start="20250524000000 +0000" stop="20250524030000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524030000 +0000" stop="20250524040700 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta attend an alien convention, featuring a behind-the-scenes look.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524040700 +0000" stop="20250524070000 +0000">
+    <title lang="zh">Fantastic Beasts: The Crimes of Grindelwald</title>
+    <desc>The second installment of the Fantastic Beasts series featuring the adventures of Magizoologist Newt Scamander.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524070000 +0000" stop="20250524103000 +0000">
+    <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
+    <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524103000 +0000" stop="20250524133200 +0000">
+    <title lang="zh">Harry Potter and the Order of the Phoenix</title>
+    <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524133200 +0000" stop="20250524165800 +0000">
+    <title lang="zh">Harry Potter and the Half-Blood Prince</title>
+    <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524165800 +0000" stop="20250524200400 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524200400 +0000" stop="20250524225900 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524225900 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
     <date>2025-05-24</date>
   </programme>
 <channel id="400477">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20250522000000 +0000" stop="20250522023000 +0000">
-    <title lang="zh">Live NBA</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522023000 +0000" stop="20250522033000 +0000">
-    <title lang="zh">Inside the NBA</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522033000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">NBA Classic</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522050000 +0000" stop="20250522060000 +0000">
-    <title lang="zh">Giro d'Italia Men Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522060000 +0000" stop="20250522063000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522063000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">Discovery Golf</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522070000 +0000" stop="20250522080000 +0000">
-    <title lang="zh">Premier League Review</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522080000 +0000" stop="20250522090000 +0000">
-    <title lang="zh">ABB FIA Formula E World Championship Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522090000 +0000" stop="20250522100000 +0000">
-    <title lang="zh">ABB FIA Formula E World Championship Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522100000 +0000" stop="20250522110000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522110000 +0000" stop="20250522160000 +0000">
-    <title lang="zh">Live: Men's Giro d'Italia</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522160000 +0000" stop="20250522163000 +0000">
-    <title lang="zh">MLB Plays of the Week</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522163000 +0000" stop="20250522194500 +0000">
-    <title lang="zh">Live MLB</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522194500 +0000" stop="20250522204500 +0000">
-    <title lang="zh">The Football's On</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522204500 +0000" stop="20250522210000 +0000">
-    <title lang="zh">No Filter Football</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522210000 +0000" stop="20250522211500 +0000">
-    <title lang="zh">Premier League Reload</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522211500 +0000" stop="20250522214500 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522214500 +0000" stop="20250522221500 +0000">
-    <title lang="zh">Serie A - Full Impact</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522221500 +0000" stop="20250522223000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522223000 +0000" stop="20250522230000 +0000">
-    <title lang="zh">NBA Action</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400477" start="20250522230000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">NBA</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="400477" start="20250523003000 +0000" stop="20250523030000 +0000">
     <title lang="zh">Live NBA</title>
     <desc />
@@ -288,135 +168,100 @@
     <desc />
     <date>2025-05-23</date>
   </programme>
-  <programme channel="400477" start="20250523220000 +0000" stop="20250524000000 +0000">
+  <programme channel="400477" start="20250523220000 +0000" stop="20250523223000 +0000">
     <title lang="zh">The Fantasy Show</title>
     <desc />
     <date>2025-05-23</date>
+  </programme>
+  <programme channel="400477" start="20250523223000 +0000" stop="20250523230000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400477" start="20250523230000 +0000" stop="20250524000000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400477" start="20250524000000 +0000" stop="20250524023000 +0000">
+    <title lang="zh">Live NBA</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524023000 +0000" stop="20250524033000 +0000">
+    <title lang="zh">Inside the NBA</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524033000 +0000" stop="20250524040000 +0000">
+    <title lang="zh">NBA Action</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524040000 +0000" stop="20250524043000 +0000">
+    <title lang="zh">NBA on Fire</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524043000 +0000" stop="20250524050000 +0000">
+    <title lang="zh">Premier League Legends</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524050000 +0000" stop="20250524060000 +0000">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524060000 +0000" stop="20250524080000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524080000 +0000" stop="20250524090000 +0000">
+    <title lang="zh">Cycling</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524090000 +0000" stop="20250524100000 +0000">
+    <title lang="zh">Live: UCI Mountain Bike World Series Women</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524100000 +0000" stop="20250524110000 +0000">
+    <title lang="zh">Live: UCI Mountain Bike World Series Men</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524110000 +0000" stop="20250524130000 +0000">
+    <title lang="zh">Live AFL</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524130000 +0000" stop="20250524133000 +0000">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524133000 +0000" stop="20250524150000 +0000">
+    <title lang="zh">Original Documentary</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524150000 +0000" stop="20250524190000 +0000">
+    <title lang="zh">Live UEFA Women's Champions League</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524190000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">The Football's On</title>
+    <desc />
+    <date>2025-05-24</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20250522000000 +0000" stop="20250522013000 +0000">
-    <title lang="zh">UEFA Europa League</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522013000 +0000" stop="20250522020000 +0000">
-    <title lang="zh">Isuzu A-League Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522020000 +0000" stop="20250522030000 +0000">
-    <title lang="zh">Giro d'Italia Men Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522030000 +0000" stop="20250522034500 +0000">
-    <title lang="zh">The Rugby Review</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522034500 +0000" stop="20250522040000 +0000">
-    <title lang="zh">Superbike Rewind</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522040000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522050000 +0000" stop="20250522060000 +0000">
-    <title lang="zh">WNBA</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522060000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">British Speedway</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522070000 +0000" stop="20250522080000 +0000">
-    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522080000 +0000" stop="20250522090000 +0000">
-    <title lang="zh">Superbike World Championship Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522090000 +0000" stop="20250522093000 +0000">
-    <title lang="zh">UEFA Champions League - Classics</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522093000 +0000" stop="20250522123000 +0000">
-    <title lang="zh">Live AFL</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522123000 +0000" stop="20250522140000 +0000">
-    <title lang="zh">NBA</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522140000 +0000" stop="20250522143000 +0000">
-    <title lang="zh">Premier League Netbusters</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522143000 +0000" stop="20250522160000 +0000">
-    <title lang="zh">UEFA Europa League</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522160000 +0000" stop="20250522163000 +0000">
-    <title lang="zh">Serie A - Full Impact</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522163000 +0000" stop="20250522170000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522170000 +0000" stop="20250522173000 +0000">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522173000 +0000" stop="20250522180000 +0000">
-    <title lang="zh">Premier League Netbusters</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522180000 +0000" stop="20250522193000 +0000">
-    <title lang="zh">UEFA Europa League</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522193000 +0000" stop="20250522224500 +0000">
-    <title lang="zh">Live MLB</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522224500 +0000" stop="20250522231500 +0000">
-    <title lang="zh">MLB Plays of the Week</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522231500 +0000" stop="20250522233000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400480" start="20250522233000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">AFL</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="400480" start="20250523010000 +0000" stop="20250523013000 +0000">
     <title lang="zh">Isuzu A-League Highlights</title>
     <desc />
@@ -517,125 +362,125 @@
     <desc />
     <date>2025-05-23</date>
   </programme>
-  <programme channel="400480" start="20250523213000 +0000" stop="20250524000000 +0000">
+  <programme channel="400480" start="20250523213000 +0000" stop="20250523223000 +0000">
     <title lang="zh">MLB Highlights</title>
     <desc />
     <date>2025-05-23</date>
+  </programme>
+  <programme channel="400480" start="20250523223000 +0000" stop="20250523230000 +0000">
+    <title lang="zh">MLB: Off the Bat</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400480" start="20250523230000 +0000" stop="20250524000000 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400480" start="20250524021500 +0000" stop="20250524023000 +0000">
+    <title lang="zh">Superbike Rewind</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524023000 +0000" stop="20250524053000 +0000">
+    <title lang="zh">Live AFL</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524053000 +0000" stop="20250524060000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524060000 +0000" stop="20250524070000 +0000">
+    <title lang="zh">Women's Cycling World Tour</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524070000 +0000" stop="20250524080000 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524080000 +0000" stop="20250524083000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524083000 +0000" stop="20250524100000 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524100000 +0000" stop="20250524124500 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524124500 +0000" stop="20250524144500 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524144500 +0000" stop="20250524154500 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524154500 +0000" stop="20250524160000 +0000">
+    <title lang="zh">British Superbikes Rewind</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524160000 +0000" stop="20250524170000 +0000">
+    <title lang="zh">Live British Talent Cup</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524170000 +0000" stop="20250524180000 +0000">
+    <title lang="zh">Original Documentary</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524180000 +0000" stop="20250524190000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524190000 +0000" stop="20250524200000 +0000">
+    <title lang="zh">MLB Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524200000 +0000" stop="20250524201500 +0000">
+    <title lang="zh">Training Day</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524201500 +0000" stop="20250524204500 +0000">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524204500 +0000" stop="20250524214500 +0000">
+    <title lang="zh">The Football's On</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524214500 +0000" stop="20250524221500 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524221500 +0000" stop="20250525000000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc />
+    <date>2025-05-24</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405060" start="20250522020000 +0000" stop="20250522030000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522030000 +0000" stop="20250522040000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522040000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">Live: SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522050000 +0000" stop="20250522060000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522060000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522070000 +0000" stop="20250522073000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522073000 +0000" stop="20250522083000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522083000 +0000" stop="20250522093000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522093000 +0000" stop="20250522103000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522103000 +0000" stop="20250522113000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522113000 +0000" stop="20250522123000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522123000 +0000" stop="20250522133000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522133000 +0000" stop="20250522143000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522143000 +0000" stop="20250522153000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522153000 +0000" stop="20250522160000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522160000 +0000" stop="20250522190000 +0000">
-    <title lang="zh">AFL Premiership Football</title>
-    <desc>From GMHBA Stadium in South Geelong, Victoria, Australia.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522190000 +0000" stop="20250522200000 +0000">
-    <title lang="zh">Live: NBA Today</title>
-    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522200000 +0000" stop="20250522210000 +0000">
-    <title lang="zh">Live: NFL Live</title>
-    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522210000 +0000" stop="20250522213000 +0000">
-    <title lang="zh">Live: Around the Horn</title>
-    <desc>Sportswriters around the country discuss sports issues.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522213000 +0000" stop="20250522220000 +0000">
-    <title lang="zh">Live: Pardon the Interruption</title>
-    <desc>Opinions regarding the day's top sports stories.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522220000 +0000" stop="20250522233000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405060" start="20250522233000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Live: NBA Countdown</title>
-    <desc>Bold opinions, discussion and debate centered on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.</desc>
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="405060" start="20250523003000 +0000" stop="20250523030000 +0000">
     <title lang="zh">Live: NBA Basketball</title>
     <desc>Western Conference Final, Game 2.</desc>
@@ -761,115 +606,125 @@
     <desc>Host Ernie Johnson readies viewers for NBA action.</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme channel="405060" start="20250524000000 +0000" stop="20250525000000 +0000">
+  <programme channel="405060" start="20250524000000 +0000" stop="20250524023000 +0000">
     <title lang="zh">Live: NBA Basketball</title>
     <desc>Eastern Conference Finals, Game 2.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524023000 +0000" stop="20250524033000 +0000">
+    <title lang="zh">Live: Inside the NBA</title>
+    <desc>Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524033000 +0000" stop="20250524040000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524040000 +0000" stop="20250524043000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524043000 +0000" stop="20250524050000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524050000 +0000" stop="20250524060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524060000 +0000" stop="20250524070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524070000 +0000" stop="20250524080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524080000 +0000" stop="20250524090000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524090000 +0000" stop="20250524100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524100000 +0000" stop="20250524110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524110000 +0000" stop="20250524120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524120000 +0000" stop="20250524123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524123000 +0000" stop="20250524150000 +0000">
+    <title lang="zh">Live: 2025 ATP Hamburg Open Tennis</title>
+    <desc>From Am Rothenbaum in Hamburg, Hamburg, Germany.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524150000 +0000" stop="20250524160000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524160000 +0000" stop="20250524170000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524170000 +0000" stop="20250524173000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524173000 +0000" stop="20250524180000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524180000 +0000" stop="20250524200000 +0000">
+    <title lang="zh">Live: Canadian Premier League Soccer</title>
+    <desc>From Wanderers Grounds in Halifax, Nova Scotia.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524200000 +0000" stop="20250524203000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524203000 +0000" stop="20250524230000 +0000">
+    <title lang="zh">Live: MLS Soccer</title>
+    <desc>From Snapdragon Stadium in San Diego.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524230000 +0000" stop="20250524233000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405060" start="20250524233000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Live: MLS Soccer</title>
+    <desc>From BMO Field in Toronto.</desc>
     <date>2025-05-24</date>
   </programme>
 <channel id="405134">
     <display-name lang="Canada">TSN4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405134" start="20250522020000 +0000" stop="20250522030000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522030000 +0000" stop="20250522040000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522040000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">Live: SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522050000 +0000" stop="20250522060000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522060000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522070000 +0000" stop="20250522080000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522080000 +0000" stop="20250522090000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522090000 +0000" stop="20250522100000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522100000 +0000" stop="20250522110000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522110000 +0000" stop="20250522120000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522120000 +0000" stop="20250522130000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522130000 +0000" stop="20250522140000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522140000 +0000" stop="20250522170000 +0000">
-    <title lang="zh">Live: 2025 IIHF World Championship</title>
-    <desc>Hockey action from the 2025 IIHF World Hockey Championship in Stockhom, Sweden and Herning, Denmark.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522170000 +0000" stop="20250522173000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522173000 +0000" stop="20250522180000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522180000 +0000" stop="20250522210000 +0000">
-    <title lang="zh">Live: 2025 IIHF World Championship</title>
-    <desc>From Jyske Bank Boxen in Herning, Denmark.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522210000 +0000" stop="20250522213000 +0000">
-    <title lang="zh">Live: Around the Horn</title>
-    <desc>Sportswriters around the country discuss sports issues.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522213000 +0000" stop="20250522220000 +0000">
-    <title lang="zh">Live: Pardon the Interruption</title>
-    <desc>Opinions regarding the day's top sports stories.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522220000 +0000" stop="20250522233000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405134" start="20250522233000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Live: NBA Countdown</title>
-    <desc>Bold opinions, discussion and debate centered on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.</desc>
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="405134" start="20250523003000 +0000" stop="20250523030000 +0000">
     <title lang="zh">Live: NBA Basketball</title>
     <desc>Western Conference Final, Game 2.</desc>
@@ -975,105 +830,105 @@
     <desc>Host Ernie Johnson readies viewers for NBA action.</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme channel="405134" start="20250524000000 +0000" stop="20250525000000 +0000">
+  <programme channel="405134" start="20250524000000 +0000" stop="20250524023000 +0000">
     <title lang="zh">Live: NBA Basketball</title>
     <desc>Eastern Conference Finals, Game 2.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524023000 +0000" stop="20250524040000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524040000 +0000" stop="20250524050000 +0000">
+    <title lang="zh">E60</title>
+    <desc>ESPN's morning sports magazine show, featuring the biggest names and stories in sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524050000 +0000" stop="20250524060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524060000 +0000" stop="20250524070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524070000 +0000" stop="20250524080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524080000 +0000" stop="20250524090000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524090000 +0000" stop="20250524100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524100000 +0000" stop="20250524110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524110000 +0000" stop="20250524120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524120000 +0000" stop="20250524150000 +0000">
+    <title lang="zh">Live: 2025 IIHF World Championship</title>
+    <desc>Hockey action from the 2025 IIHF World Hockey Championship in Stockhom, Sweden and Herning, Denmark.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524150000 +0000" stop="20250524160000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524160000 +0000" stop="20250524190000 +0000">
+    <title lang="zh">Live: 2025 IIHF World Championship</title>
+    <desc>Hockey action from the 2025 IIHF World Hockey Championship in Stockhom, Sweden and Herning, Denmark.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524190000 +0000" stop="20250524193000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524193000 +0000" stop="20250524200000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524200000 +0000" stop="20250524203000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524203000 +0000" stop="20250524230000 +0000">
+    <title lang="zh">Live: NLL Lacrosse</title>
+    <desc>Finals, Game 3. (If necessary).</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524230000 +0000" stop="20250524233000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405134" start="20250524233000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Live: NBA Countdown</title>
+    <desc>Bold opinions, discussion and debate centered on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.</desc>
     <date>2025-05-24</date>
   </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400479" start="20250522020000 +0000" stop="20250522030000 +0000">
-    <title lang="zh">V8 Supercars Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522030000 +0000" stop="20250522040000 +0000">
-    <title lang="zh">V8 Supercars Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522040000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">Porsche Supercup</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522050000 +0000" stop="20250522063000 +0000">
-    <title lang="zh">UEFA Europa League</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522063000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">UEFA Champions League - Classics</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522070000 +0000" stop="20250522073000 +0000">
-    <title lang="zh">UEFA Champions League - Classics</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522073000 +0000" stop="20250522083000 +0000">
-    <title lang="zh">Isuzu UTE A-League</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522083000 +0000" stop="20250522093000 +0000">
-    <title lang="zh">Isuzu UTE A-League</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522093000 +0000" stop="20250522100000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522100000 +0000" stop="20250522110000 +0000">
-    <title lang="zh">Giro d'Italia Men Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522110000 +0000" stop="20250522160000 +0000">
-    <title lang="zh">Live: Men's Giro d'Italia</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522160000 +0000" stop="20250522163000 +0000">
-    <title lang="zh">NBA Action</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522163000 +0000" stop="20250522180000 +0000">
-    <title lang="zh">NBA</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522180000 +0000" stop="20250522193000 +0000">
-    <title lang="zh">AFL</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522193000 +0000" stop="20250522203000 +0000">
-    <title lang="zh">Giro d'Italia Men Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522203000 +0000" stop="20250522213000 +0000">
-    <title lang="zh">Women's Cycling World Tour</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522213000 +0000" stop="20250522230000 +0000">
-    <title lang="zh">UEFA Europa League</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400479" start="20250522230000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Ultimate Pool</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="400479" start="20250523003000 +0000" stop="20250523013000 +0000">
     <title lang="zh">ABB FIA Formula E World Championship Highlights</title>
     <desc />
@@ -1164,135 +1019,100 @@
     <desc />
     <date>2025-05-23</date>
   </programme>
-  <programme channel="400479" start="20250523220000 +0000" stop="20250524000000 +0000">
+  <programme channel="400479" start="20250523220000 +0000" stop="20250523223000 +0000">
     <title lang="zh">MotoGP</title>
     <desc />
     <date>2025-05-23</date>
+  </programme>
+  <programme channel="400479" start="20250523223000 +0000" stop="20250523233000 +0000">
+    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400479" start="20250523233000 +0000" stop="20250524000000 +0000">
+    <title lang="zh">Premier League Preview</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400479" start="20250524000000 +0000" stop="20250524013000 +0000">
+    <title lang="zh">AFL</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524013000 +0000" stop="20250524034500 +0000">
+    <title lang="zh">Live: NWSL</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524034500 +0000" stop="20250524050000 +0000">
+    <title lang="zh">Original Documentary</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524050000 +0000" stop="20250524053000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524053000 +0000" stop="20250524060000 +0000">
+    <title lang="zh">The Fantasy Show</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524060000 +0000" stop="20250524090000 +0000">
+    <title lang="zh">Live AFL</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524090000 +0000" stop="20250524091500 +0000">
+    <title lang="zh">Training Day</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524091500 +0000" stop="20250524093000 +0000">
+    <title lang="zh">No Filter Football</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524093000 +0000" stop="20250524103000 +0000">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524103000 +0000" stop="20250524160000 +0000">
+    <title lang="zh">Live: Men's Giro d'Italia</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524160000 +0000" stop="20250524170000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524170000 +0000" stop="20250524190000 +0000">
+    <title lang="zh">Live: WNBA</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524190000 +0000" stop="20250524200000 +0000">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524200000 +0000" stop="20250524210000 +0000">
+    <title lang="zh">Women's Cycling World Tour</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400479" start="20250524210000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc />
+    <date>2025-05-24</date>
   </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400478" start="20250522003000 +0000" stop="20250522020000 +0000">
-    <title lang="zh">AFL</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522020000 +0000" stop="20250522033000 +0000">
-    <title lang="zh">AFL</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522033000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">Ultimate Pool</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522050000 +0000" stop="20250522060000 +0000">
-    <title lang="zh">Gallagher Premiership Rugby Union</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522060000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">Gallagher Premiership Rugby Union</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522070000 +0000" stop="20250522080000 +0000">
-    <title lang="zh">Gallagher Premiership Rugby Union</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522080000 +0000" stop="20250522090000 +0000">
-    <title lang="zh">Gallagher Premiership Rugby Union</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522090000 +0000" stop="20250522100000 +0000">
-    <title lang="zh">Gallagher Premiership Rugby Union</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522100000 +0000" stop="20250522104500 +0000">
-    <title lang="zh">The Rugby Review</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522104500 +0000" stop="20250522110000 +0000">
-    <title lang="zh">Superbike Rewind</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522110000 +0000" stop="20250522113000 +0000">
-    <title lang="zh">Isuzu A-League Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522113000 +0000" stop="20250522123000 +0000">
-    <title lang="zh">MLB Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522123000 +0000" stop="20250522140000 +0000">
-    <title lang="zh">Live: Women's Cycling World Tour</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522140000 +0000" stop="20250522150000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522150000 +0000" stop="20250522160000 +0000">
-    <title lang="zh">IFSC Climbing World Cup Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522160000 +0000" stop="20250522163000 +0000">
-    <title lang="zh">Discovery Golf</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522163000 +0000" stop="20250522173000 +0000">
-    <title lang="zh">ABB FIA Formula E World Championship Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522173000 +0000" stop="20250522183000 +0000">
-    <title lang="zh">ABB FIA Formula E World Championship Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522183000 +0000" stop="20250522193000 +0000">
-    <title lang="zh">WRC Review</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522193000 +0000" stop="20250522203000 +0000">
-    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522203000 +0000" stop="20250522213000 +0000">
-    <title lang="zh">British Speedway</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522213000 +0000" stop="20250522223000 +0000">
-    <title lang="zh">British Superbikes Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522223000 +0000" stop="20250522233000 +0000">
-    <title lang="zh">Superbike World Championship Highlights</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="400478" start="20250522233000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc />
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="400478" start="20250523003000 +0000" stop="20250523023000 +0000">
     <title lang="zh">MLB Classic</title>
     <desc />
@@ -1383,120 +1203,120 @@
     <desc />
     <date>2025-05-23</date>
   </programme>
-  <programme channel="400478" start="20250523200000 +0000" stop="20250524000000 +0000">
+  <programme channel="400478" start="20250523200000 +0000" stop="20250523203100 +0000">
     <title lang="zh">NBA on Fire</title>
     <desc />
     <date>2025-05-23</date>
+  </programme>
+  <programme channel="400478" start="20250523203100 +0000" stop="20250523233000 +0000">
+    <title lang="zh">UFC</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400478" start="20250523233000 +0000" stop="20250524000000 +0000">
+    <title lang="zh">UFC Connected</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400478" start="20250524000000 +0000" stop="20250524010100 +0000">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524010100 +0000" stop="20250524020000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524020000 +0000" stop="20250524023000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524023000 +0000" stop="20250524040000 +0000">
+    <title lang="zh">Ultimate Pool</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524040000 +0000" stop="20250524050000 +0000">
+    <title lang="zh">Superbike World Championship Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524050000 +0000" stop="20250524053000 +0000">
+    <title lang="zh">Discovery Golf</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524053000 +0000" stop="20250524063000 +0000">
+    <title lang="zh">UTMB World Series Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524063000 +0000" stop="20250524070000 +0000">
+    <title lang="zh">MLB: Off the Bat</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524070000 +0000" stop="20250524073000 +0000">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524073000 +0000" stop="20250524083000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524083000 +0000" stop="20250524093000 +0000">
+    <title lang="zh">The Football's On</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524093000 +0000" stop="20250524123000 +0000">
+    <title lang="zh">Live AFL</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524123000 +0000" stop="20250524140000 +0000">
+    <title lang="zh">Live: Women's Cycling World Tour</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524140000 +0000" stop="20250524150000 +0000">
+    <title lang="zh">MLB Highlights</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524150000 +0000" stop="20250524163000 +0000">
+    <title lang="zh">NBA</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524163000 +0000" stop="20250524173000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524173000 +0000" stop="20250524183000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524183000 +0000" stop="20250524193000 +0000">
+    <title lang="zh">Cycling</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400478" start="20250524193000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">AFL</title>
+    <desc />
+    <date>2025-05-24</date>
   </programme>
 <channel id="405049">
     <display-name lang="Canada">TSN1</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405049" start="20250522020000 +0000" stop="20250522030000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522030000 +0000" stop="20250522040000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522040000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">Live: SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522050000 +0000" stop="20250522060000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522060000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522070000 +0000" stop="20250522073000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522073000 +0000" stop="20250522083000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522083000 +0000" stop="20250522093000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522093000 +0000" stop="20250522103000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522103000 +0000" stop="20250522113000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522113000 +0000" stop="20250522123000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522123000 +0000" stop="20250522133000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522133000 +0000" stop="20250522140000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522140000 +0000" stop="20250522170000 +0000">
-    <title lang="zh">Live: 2025 IIHF World Championship</title>
-    <desc>Hockey action from the 2025 IIHF World Hockey Championship in Stockhom, Sweden and Herning, Denmark.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522170000 +0000" stop="20250522173000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522173000 +0000" stop="20250522180000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522180000 +0000" stop="20250522210000 +0000">
-    <title lang="zh">Live: 2025 IIHF World Championship</title>
-    <desc>From Jyske Bank Boxen in Herning, Denmark.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522210000 +0000" stop="20250522213000 +0000">
-    <title lang="zh">Live: Around the Horn</title>
-    <desc>Sportswriters around the country discuss sports issues.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522213000 +0000" stop="20250522220000 +0000">
-    <title lang="zh">Live: Pardon the Interruption</title>
-    <desc>Opinions regarding the day's top sports stories.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522220000 +0000" stop="20250522233000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405049" start="20250522233000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Live: NBA Countdown</title>
-    <desc>Bold opinions, discussion and debate centered on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.</desc>
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="405049" start="20250523003000 +0000" stop="20250523030000 +0000">
     <title lang="zh">Live: NBA Basketball</title>
     <desc>Western Conference Final, Game 2.</desc>
@@ -1627,125 +1447,110 @@
     <desc>From Sun Life Financial Coliseum in Rimouski, Québec.</desc>
     <date>2025-05-23</date>
   </programme>
+  <programme channel="405049" start="20250524020000 +0000" stop="20250524030000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524030000 +0000" stop="20250524040000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524040000 +0000" stop="20250524050000 +0000">
+    <title lang="zh">E60</title>
+    <desc>ESPN's morning sports magazine show, featuring the biggest names and stories in sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524050000 +0000" stop="20250524060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524060000 +0000" stop="20250524070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524070000 +0000" stop="20250524080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524080000 +0000" stop="20250524090000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524090000 +0000" stop="20250524100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524100000 +0000" stop="20250524110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524110000 +0000" stop="20250524120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524120000 +0000" stop="20250524150000 +0000">
+    <title lang="zh">Live: 2025 IIHF World Championship</title>
+    <desc>Hockey action from the 2025 IIHF World Hockey Championship in Stockhom, Sweden and Herning, Denmark.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524150000 +0000" stop="20250524160000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524160000 +0000" stop="20250524190000 +0000">
+    <title lang="zh">Live: 2025 IIHF World Championship</title>
+    <desc>Hockey action from the 2025 IIHF World Hockey Championship in Stockhom, Sweden and Herning, Denmark.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524190000 +0000" stop="20250524193000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524193000 +0000" stop="20250524200000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524200000 +0000" stop="20250524203000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524203000 +0000" stop="20250524210000 +0000">
+    <title lang="zh">FIA Formula E Highlights</title>
+    <desc>Exciting moments from the FIA Formula E series.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524210000 +0000" stop="20250524213000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524213000 +0000" stop="20250524230000 +0000">
+    <title lang="zh">We the North: From Prehistoric to Historic</title>
+    <desc>An exploration of key moments and developments from throughout the Raptors' organization's history; examine "We the North" movement that sparked a diverse community across the country, culminating in the 2019 NBA Championship.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405049" start="20250524230000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Live: Professional Women's Hockey League</title>
+    <desc>Game 3.</desc>
+    <date>2025-05-24</date>
+  </programme>
 <channel id="404833">
     <display-name lang="Canada">TSN2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="404833" start="20250522000000 +0000" stop="20250522020000 +0000">
-    <title lang="zh">Live: All Elite Wrestling: Dynamite</title>
-    <desc>All Elite Wrestling continues to inject new spirit, freshness and energy into mainstream wrestling featuring a world-class roster of diverse male and female wrestlers.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522020000 +0000" stop="20250522023000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522023000 +0000" stop="20250522033000 +0000">
-    <title lang="zh">Golf Talk Canada</title>
-    <desc>TSN's Mark Zecchino and Bob Weeks discuss the latest news in the world of golf.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522033000 +0000" stop="20250522040000 +0000">
-    <title lang="zh">CFL Wired</title>
-    <desc>CFL highlights featuring in-game audio and mic'd up players and coaches.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522040000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">PBR Bull Riding</title>
-    <desc>Coverage of classic bull riding events from around the United States.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522050000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">All Elite Wrestling: Dynamite</title>
-    <desc>All Elite Wrestling continues to inject new spirit, freshness and energy into mainstream wrestling featuring a world-class roster of diverse male and female wrestlers.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522070000 +0000" stop="20250522073000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522073000 +0000" stop="20250522080000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522080000 +0000" stop="20250522083000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522083000 +0000" stop="20250522090000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522090000 +0000" stop="20250522093000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522093000 +0000" stop="20250522100000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522100000 +0000" stop="20250522103000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522103000 +0000" stop="20250522110000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522110000 +0000" stop="20250522140000 +0000">
-    <title lang="zh">2025 IIHF World Championship</title>
-    <desc>Group A.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522140000 +0000" stop="20250522150000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522150000 +0000" stop="20250522160000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522160000 +0000" stop="20250522180000 +0000">
-    <title lang="zh">First Take</title>
-    <desc>Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522180000 +0000" stop="20250522183000 +0000">
-    <title lang="zh">STIHL Timbersports</title>
-    <desc>Showcasing the world's best lumberjacks competing across six events.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522183000 +0000" stop="20250522193000 +0000">
-    <title lang="zh">PBR Bull Riding</title>
-    <desc>Coverage of classic bull riding events from around the United States.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522193000 +0000" stop="20250522200000 +0000">
-    <title lang="zh">2025 Motorcycle Experience</title>
-    <desc>News and reviews from cycle enthusiasts.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522200000 +0000" stop="20250522223000 +0000">
-    <title lang="zh">Live: Overdrive</title>
-    <desc>Expert analysis on the day's biggest sports stories.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="404833" start="20250522223000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Live: MLB Baseball</title>
-    <desc>From Comerica Park in Detroit.</desc>
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="404833" start="20250523010000 +0000" stop="20250523040000 +0000">
     <title lang="zh">2025 IIHF World Championship</title>
     <desc>Hockey action from the 2025 IIHF World Hockey Championship in Stockhom, Sweden and Herning, Denmark.</desc>
@@ -1871,100 +1676,105 @@
     <desc>The best and worst from the world of sports.</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme channel="404833" start="20250524000000 +0000" stop="20250525000000 +0000">
+  <programme channel="404833" start="20250524000000 +0000" stop="20250524020000 +0000">
     <title lang="zh">Live: CEBL Basketball</title>
     <desc>From Verdun Auditorium in Montreal .</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524020000 +0000" stop="20250524023000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524023000 +0000" stop="20250524030000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524030000 +0000" stop="20250524033000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524033000 +0000" stop="20250524040000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524040000 +0000" stop="20250524070000 +0000">
+    <title lang="zh">2025 Memorial Cup Hockey</title>
+    <desc>From Sun Life Financial Coliseum in Rimouski, Québec.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524070000 +0000" stop="20250524100000 +0000">
+    <title lang="zh">2025 Memorial Cup Hockey</title>
+    <desc>From Sun Life Financial Coliseum in Rimouski, Québec.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524100000 +0000" stop="20250524130000 +0000">
+    <title lang="zh">2025 Memorial Cup Hockey</title>
+    <desc>From Sun Life Financial Coliseum in Rimouski, Québec.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524130000 +0000" stop="20250524140000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524140000 +0000" stop="20250524150000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524150000 +0000" stop="20250524153000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524153000 +0000" stop="20250524160000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524160000 +0000" stop="20250524170000 +0000">
+    <title lang="zh">PBR Bull Riding</title>
+    <desc>Coverage of classic bull riding events from around the United States.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524170000 +0000" stop="20250524180000 +0000">
+    <title lang="zh">FIA Formula E Highlights</title>
+    <desc>Exciting moments from the FIA Formula E series.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524180000 +0000" stop="20250524190000 +0000">
+    <title lang="zh">FIA Formula E Highlights</title>
+    <desc>Exciting moments from the FIA Formula E series.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524190000 +0000" stop="20250524220000 +0000">
+    <title lang="zh">Live: 2025 Senior PGA Championship</title>
+    <desc>Watch the third round of the Senior PGA Championship at Congressional Country Club in Bethesda, Md.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524220000 +0000" stop="20250524223000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524223000 +0000" stop="20250524230000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="404833" start="20250524230000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Live: CFL Football</title>
+    <desc>From Tim Hortons Field in Hamilton, Ontario.</desc>
     <date>2025-05-24</date>
   </programme>
 <channel id="405079">
     <display-name lang="Canada">TSN5</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405079" start="20250522020000 +0000" stop="20250522030000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522030000 +0000" stop="20250522040000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522040000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">Live: SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522050000 +0000" stop="20250522060000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522060000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522070000 +0000" stop="20250522080000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522080000 +0000" stop="20250522090000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522090000 +0000" stop="20250522100000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522100000 +0000" stop="20250522180000 +0000">
-    <title lang="zh">Live: 2025 ATP Hamburg Open Tennis</title>
-    <desc>From Am Rothenbaum in Hamburg, Hamburg, Germany.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522180000 +0000" stop="20250522183000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522183000 +0000" stop="20250522190000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522190000 +0000" stop="20250522200000 +0000">
-    <title lang="zh">Live: NBA Today</title>
-    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522200000 +0000" stop="20250522210000 +0000">
-    <title lang="zh">Live: NFL Live</title>
-    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522210000 +0000" stop="20250522213000 +0000">
-    <title lang="zh">Live: Around the Horn</title>
-    <desc>Sportswriters around the country discuss sports issues.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522213000 +0000" stop="20250522220000 +0000">
-    <title lang="zh">Live: Pardon the Interruption</title>
-    <desc>Opinions regarding the day's top sports stories.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522220000 +0000" stop="20250522233000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="405079" start="20250522233000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Live: Professional Women's Hockey League</title>
-    <desc>Game 2.</desc>
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="405079" start="20250523020000 +0000" stop="20250523030000 +0000">
     <title lang="zh">Live: NBA Basketball</title>
     <desc>Western Conference Final, Game 2.</desc>
@@ -2080,100 +1890,120 @@
     <desc>From Sun Life Financial Coliseum in Rimouski, Québec.</desc>
     <date>2025-05-23</date>
   </programme>
+  <programme channel="405079" start="20250524020000 +0000" stop="20250524030000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524030000 +0000" stop="20250524040000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524040000 +0000" stop="20250524043000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524043000 +0000" stop="20250524050000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524050000 +0000" stop="20250524060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524060000 +0000" stop="20250524070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524070000 +0000" stop="20250524080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524080000 +0000" stop="20250524090000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524090000 +0000" stop="20250524100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524100000 +0000" stop="20250524110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524110000 +0000" stop="20250524120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524120000 +0000" stop="20250524130000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524130000 +0000" stop="20250524135500 +0000">
+    <title lang="zh">Live: Formula 1 Pre Qualifying</title>
+    <desc>Pre-qualifying news, notes and interviews.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524135500 +0000" stop="20250524160000 +0000">
+    <title lang="zh">Live: Formula 1 Racing</title>
+    <desc>From Circuit de Monaco in Monaco.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524160000 +0000" stop="20250524163000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524163000 +0000" stop="20250524193000 +0000">
+    <title lang="zh">Live: AFL Premiership Football</title>
+    <desc>From Melbourne Cricket Ground in Melbourne, Victoria, Australia.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524193000 +0000" stop="20250524200000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524200000 +0000" stop="20250524203000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524203000 +0000" stop="20250524210000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524210000 +0000" stop="20250524213000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524213000 +0000" stop="20250524220000 +0000">
+    <title lang="zh">Live: 2025 Memorial Cup Pregame Show</title>
+    <desc>Pregame coverage of 2025 Memorial Cup Hockey.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="405079" start="20250524220000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Live: 2025 Memorial Cup Hockey</title>
+    <desc>From Sun Life Financial Coliseum in Rimouski, Québec.</desc>
+    <date>2025-05-24</date>
+  </programme>
 <channel id="8821">
     <display-name lang="US">Willow Cricket HDTV (WILLOWHD)</display-name>
     <icon src="" />
   </channel>
-  <programme channel="8821" start="20250522000000 +0000" stop="20250522010000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522010000 +0000" stop="20250522013000 +0000">
-    <title lang="zh">Tata IPL Match Day Analysis</title>
-    <desc>Highlights and analysis of IPL matches.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522013000 +0000" stop="20250522020000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522020000 +0000" stop="20250522030000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522030000 +0000" stop="20250522040000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522040000 +0000" stop="20250522043000 +0000">
-    <title lang="zh">Tata IPL Match Day Analysis</title>
-    <desc>Highlights and analysis of IPL matches.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522043000 +0000" stop="20250522050000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522050000 +0000" stop="20250522060000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522060000 +0000" stop="20250522070000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522070000 +0000" stop="20250522120000 +0000">
-    <title lang="zh">IPL Cricket</title>
-    <desc>From Ekana Cricket Stadium in Lucknow, Uttar Pradesh, India.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522120000 +0000" stop="20250522130000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522130000 +0000" stop="20250522140000 +0000">
-    <title lang="zh">Live: Cricket Preview</title>
-    <desc>A preview of an upcoming cricket match.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522140000 +0000" stop="20250522172000 +0000">
-    <title lang="zh">Live: IPL Cricket</title>
-    <desc>From Narendra Modi Stadium in Ahmedabad, India.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522172000 +0000" stop="20250522175000 +0000">
-    <title lang="zh">Live: Cricket Review</title>
-    <desc>Action from cricket matches around the world.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522175000 +0000" stop="20250522180000 +0000">
-    <title lang="zh">Cricket Filler</title>
-    <desc>Filler cricket programming.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522180000 +0000" stop="20250522183000 +0000">
-    <title lang="zh">Cricket Filler</title>
-    <desc>Filler cricket programming.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522183000 +0000" stop="20250522233000 +0000">
-    <title lang="zh">IPL Cricket</title>
-    <desc>From Narendra Modi Stadium in Ahmedabad, India.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="8821" start="20250522233000 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Cricket Highlights</title>
-    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="8821" start="20250523000000 +0000" stop="20250523010000 +0000">
     <title lang="zh">Cricket Highlights</title>
     <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
@@ -2264,9 +2094,99 @@
     <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme channel="8821" start="20250524000000 +0000" stop="20250525000000 +0000">
+  <programme channel="8821" start="20250524000000 +0000" stop="20250524010000 +0000">
     <title lang="zh">Cricket Highlights</title>
     <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
     <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524010000 +0000" stop="20250524013000 +0000">
+    <title lang="zh">Tata IPL Match Day Analysis</title>
+    <desc>Highlights and analysis of IPL matches.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524013000 +0000" stop="20250524020000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524020000 +0000" stop="20250524030000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524030000 +0000" stop="20250524040000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524040000 +0000" stop="20250524043000 +0000">
+    <title lang="zh">Tata IPL Match Day Analysis</title>
+    <desc>Highlights and analysis of IPL matches.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524043000 +0000" stop="20250524050000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524050000 +0000" stop="20250524060000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524060000 +0000" stop="20250524070000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524070000 +0000" stop="20250524120000 +0000">
+    <title lang="zh">IPL Cricket</title>
+    <desc>From M. Chinnaswamy Stadium in Bangalore, Karnataka, India.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524120000 +0000" stop="20250524130000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524130000 +0000" stop="20250524140000 +0000">
+    <title lang="zh">Live: Cricket Preview</title>
+    <desc>A preview of an upcoming cricket match.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524140000 +0000" stop="20250524172000 +0000">
+    <title lang="zh">Live: IPL Cricket</title>
+    <desc>From Sawai Mansingh Stadium in Jaipur, Rajasthan, India.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524172000 +0000" stop="20250524175000 +0000">
+    <title lang="zh">Live: Cricket Review</title>
+    <desc>Action from cricket matches around the world.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524175000 +0000" stop="20250524180000 +0000">
+    <title lang="zh">Cricket Filler</title>
+    <desc>Filler cricket programming.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524180000 +0000" stop="20250524183000 +0000">
+    <title lang="zh">Cricket Filler</title>
+    <desc>Filler cricket programming.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524183000 +0000" stop="20250524233000 +0000">
+    <title lang="zh">IPL Cricket</title>
+    <desc>From Sawai Mansingh Stadium in Jaipur, Rajasthan, India.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250524233000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="8821" start="20250525000000 +0000" stop="20250526000000 +0000">
+    <title lang="zh">Cricket Highlights</title>
+    <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+    <date>2025-05-25</date>
   </programme>
 </tv>
