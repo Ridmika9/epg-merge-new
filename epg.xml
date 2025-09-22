@@ -4,56 +4,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20250921020000 +0000" stop="20250921100000 +0000">
-    <title lang="zh">Live: FIM Endurance World Championship Motorcycle Racing</title>
-    <desc>Action from the 2025 Bol d'Or, part of the FIM Endurance World Championship. This prestigious 24-hour race takes place at Circuit Paul Ricard in France.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921100000 +0000" stop="20250921121500 +0000">
-    <title lang="zh">Live: British Superbikes Motorcycle Racing</title>
-    <desc>British Superbikes action from day two and round nine at the iconic TT Circuit Assen in the Netherlands.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921121500 +0000" stop="20250921161500 +0000">
-    <title lang="zh">Live: International T20 Cricket</title>
-    <desc>Action from the third T20 between Ireland and England at The Village in Dublin.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921161500 +0000" stop="20250921181500 +0000">
-    <title lang="zh">Live: Asia Cup</title>
-    <desc>Cricket action from the Asia Cup.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921181500 +0000" stop="20250921183000 +0000">
-    <title lang="zh">UEFA Champions League Goals Reload</title>
-    <desc>The pick of the goals from matchday one of the UEFA Champions League, including Athletic v Arsenal, Bayern v Chelsea, Newcastle v Barcelona and Liverpool v Atletico.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921183000 +0000" stop="20250921204500 +0000">
-    <title lang="zh">Live: Serie A Football</title>
-    <desc>Cristian Chivu's Inter look to avoid a third straight Serie A defeat, as they host Fabio Grosso's Sassuolo at San Siro. Sassuolo won 1-0 when these sides last met.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921204500 +0000" stop="20250921214500 +0000">
-    <title lang="zh">International T20 Cricket</title>
-    <desc>Action from the third T20 between Ireland and England at The Village in Dublin.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921214500 +0000" stop="20250921224500 +0000">
-    <title lang="zh">Women's One-Day International Cricket</title>
-    <desc>Action from the third Women's One Day International between India and Australia at Arun Jaitley Cricket Stadium. Who will claim victory in this series decider?</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921224500 +0000" stop="20250921230000 +0000">
-    <title lang="zh">UEFA Champions League Goals Reload</title>
-    <desc>The pick of the goals from matchday one of the UEFA Champions League, including Athletic v Arsenal, Bayern v Chelsea, Newcastle v Barcelona and Liverpool v Atletico.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400477" start="20250921230000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">Live: Major League Baseball</title>
-    <desc>Major League Baseball action as Seattle Mariners face Houston Astros.</desc>
-    <date>2025-09-21</date>
-  </programme>
   <programme channel="400477" start="20250922021500 +0000" stop="20250922024500 +0000">
     <title lang="zh">MLB Plays of the Week</title>
     <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
@@ -154,110 +104,120 @@
     <desc>Action from the third Women's One Day International between India and Australia at Arun Jaitley Cricket Stadium. Who will claim victory in this series decider?</desc>
     <date>2025-09-22</date>
   </programme>
+  <programme channel="400477" start="20250923001500 +0000" stop="20250923003000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923003000 +0000" stop="20250923013000 +0000">
+    <title lang="zh">Major League Baseball</title>
+    <desc>Highlights from Major League Baseball.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923013000 +0000" stop="20250923044500 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Action from Major League Baseball as San Diego Padres take on Milwaukee Brewers.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923044500 +0000" stop="20250923050000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the first T20 between Ireland and England at The Village in Dublin, featuring a big-hitting innings by in-form opener Phil Salt.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923050000 +0000" stop="20250923060000 +0000">
+    <title lang="zh">Serie A Football</title>
+    <desc>Champions Napoli look to continue their perfect start to the Serie A season, as they welcome newly-promoted Pisa to Stadio Diego Armando Maradona.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923060000 +0000" stop="20250923070000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best of the recent action from matchday five of the Premier League, featuring the Merseyside derby, Man United v Chelsea, and Arsenal v Man City.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923070000 +0000" stop="20250923073000 +0000">
+    <title lang="zh">CPL T20</title>
+    <desc>Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923073000 +0000" stop="20250923083000 +0000">
+    <title lang="zh">UCI Road World Championships</title>
+    <desc>Highlights from Cycling World Championship in Kigali, Rwanda.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923083000 +0000" stop="20250923111500 +0000">
+    <title lang="zh">Live: UCI Road World Championships</title>
+    <desc>Action from the Women's Junior Time Trial at the 2025 Cycling World Championship in Kigali, Rwanda.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923111500 +0000" stop="20250923113000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923113000 +0000" stop="20250923114500 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>What does the future hold for cycling in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how cycling can be a positive force for change.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923114500 +0000" stop="20250923150000 +0000">
+    <title lang="zh">Live: UCI Road World Championships</title>
+    <desc>Action from the Men's Junior Time Trial at the 2025 Cycling World Championship in Kigali, Rwanda.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923150000 +0000" stop="20250923181500 +0000">
+    <title lang="zh">Live: Asia Cup</title>
+    <desc>Action from the 2025 Asia Cup Super Four, as Pakistan and Sri Lanka go head-to-head at Sheikh Zayed Cricket Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923181500 +0000" stop="20250923191500 +0000">
+    <title lang="zh">Premiership Speedway</title>
+    <desc>Highlights from leg two of the British Speedway ROWE Motor Oil Premiership play-off semi-final between Sheffield Tigers and Leicester Lions at Owlerton Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923191500 +0000" stop="20250923193000 +0000">
+    <title lang="zh">Premier League Reload</title>
+    <desc>A whirlwind catch-up from matchday five of the Premier League, featuring Liverpool v Everton, Man United v Chelsea, and Arsenal v Man City.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923193000 +0000" stop="20250923200000 +0000">
+    <title lang="zh">Premier League: The Big Interview</title>
+    <desc>Everton's talismanic forward Iliman Ndiaye shares his fascinating journey from non-league football to making history with the Toffees in the Premier League.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923200000 +0000" stop="20250923210100 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best of the recent action from matchday five of the Premier League, featuring the Merseyside derby, Man United v Chelsea, and Arsenal v Man City.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923210100 +0000" stop="20250923214500 +0000">
+    <title lang="zh">Sign Up: Into Football</title>
+    <desc>Rolf and Damaris interview Chelsea striker Liam Delap and England hero Hannah Hampton. Enzo Maresca and Sonia Bompastor learn BSL, while Joe Cole reviews the season so far.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923214500 +0000" stop="20250923220000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923220000 +0000" stop="20250923230000 +0000">
+    <title lang="zh">Major League Baseball</title>
+    <desc>Highlights from Major League Baseball.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923230000 +0000" stop="20250923233000 +0000">
+    <title lang="zh">MLB Lead Off</title>
+    <desc>A look at the upcoming MLB action ahead of New York Mets @ Chicago Cubs.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400477" start="20250923233000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>MLB action as New York Mets face off against Chicago Cubs.</desc>
+    <date>2025-09-23</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20250921000000 +0000" stop="20250921020000 +0000">
-    <title lang="zh">English Open Snooker</title>
-    <desc>Highlights from the English Open, part of the Snooker Home Nations Series.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921020000 +0000" stop="20250921041500 +0000">
-    <title lang="zh">Live: NWSL</title>
-    <desc>National Women's Soccer League action as Portland Thorns take on San Diego Wave FC at Providence Park. The Wave are winless in their last four league games.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921041500 +0000" stop="20250921043000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921043000 +0000" stop="20250921050000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921050000 +0000" stop="20250921070000 +0000">
-    <title lang="zh">Live: Women's Australian Rules</title>
-    <desc>Action from the AFLW as Western Bulldogs face Brisbane Lions at Mission Whitten Oval. The last encounter between these sides saw the Lions storm out 81-34 winners.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921070000 +0000" stop="20250921090000 +0000">
-    <title lang="zh">Live: Women's Australian Rules</title>
-    <desc>AFLW action as Gold Coast Suns meet Adelaide Crows at People First Stadium. Can the Suns tighten up their defence and avoid a fifth defeat of the season?</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921090000 +0000" stop="20250921093000 +0000">
-    <title lang="zh">UCI World Cup Mountain Biking</title>
-    <desc>Action from the DHI Elite Final, part of the Women's UCI Mountain Bike World Series in Lenzerheide, Switzerland.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921093000 +0000" stop="20250921100000 +0000">
-    <title lang="zh">UCI World Cup Mountain Biking</title>
-    <desc>Action from the DHI Elite Final, part of the Men's UCI Mountain Bike World Series in Lenzerheide, Switzerland.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921100000 +0000" stop="20250921110000 +0000">
-    <title lang="zh">UCI BMX Racing World Cup</title>
-    <desc>Action from round five of the UCI BMX Racing World Cup in Santiago del Estero, Argentina.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921110000 +0000" stop="20250921111500 +0000">
-    <title lang="zh">UEFA Champions League Goals Reload</title>
-    <desc>The pick of the goals from matchday one of the UEFA Champions League, including Athletic v Arsenal, Bayern v Chelsea, Newcastle v Barcelona and Liverpool v Atletico.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921111500 +0000" stop="20250921114500 +0000">
-    <title lang="zh">Asia Cup</title>
-    <desc>The best of the latest cricket action from the Asia Cup.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921114500 +0000" stop="20250921150000 +0000">
-    <title lang="zh">Live: English Open Snooker</title>
-    <desc>Action from the 2025 English Open final, part of the Snooker Home Nations Series.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921150000 +0000" stop="20250921160000 +0000">
-    <title lang="zh">PREM Rugby Cup</title>
-    <desc>Action from the PREM Rugby Cup.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921160000 +0000" stop="20250921173000 +0000">
-    <title lang="zh">Australian Rules</title>
-    <desc>Action from the Australian Football League.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921173000 +0000" stop="20250921174500 +0000">
-    <title lang="zh">Training Day</title>
-    <desc>Peter Crouch, Steve Sidwell and Wayne Bridge head to West London to find out more about how Grenfell Athletic FC have been helping the community and bringing people together.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921174500 +0000" stop="20250921210000 +0000">
-    <title lang="zh">Live: English Open Snooker</title>
-    <desc>Session two of the 2025 English Open final, part of the Snooker Home Nations Series.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921210000 +0000" stop="20250921220000 +0000">
-    <title lang="zh">WA World Athletics Championships</title>
-    <desc>Highlights from the final day of the 2025 World Athletics Championships, featuring the finals of the Women's High Jump, Women's 800m, Men's 5,000m and the 4x100m Relays.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921220000 +0000" stop="20250921230000 +0000">
-    <title lang="zh">PREM Rugby Cup</title>
-    <desc>Action from the PREM Rugby Cup.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921230000 +0000" stop="20250921233000 +0000">
-    <title lang="zh">CPL T20</title>
-    <desc>Highlights from the Caribbean Premier League second qualifier between Nicholas Pooran's Trinbago Knight Riders and David Wiese's Saint Lucia Kings at Providence Stadium.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400480" start="20250921233000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">Live: CPL T20</title>
-    <desc>Action from the Caribbean Premier League.</desc>
-    <date>2025-09-21</date>
-  </programme>
   <programme channel="400480" start="20250922034500 +0000" stop="20250922041500 +0000">
     <title lang="zh">Women's CPL T20</title>
     <desc>Highlights from the 2025 Women's Caribbean Premier League final between Barbados Royals and Guyana Amazon Warriors at Providence Stadium.</desc>
@@ -368,105 +328,135 @@
     <desc>Action from MXGP race one, part of the 2025 Motocross World Championship at Hidden Valley Motorsports Complex in Australia.</desc>
     <date>2025-09-22</date>
   </programme>
+  <programme channel="400480" start="20250923003000 +0000" stop="20250923011500 +0000">
+    <title lang="zh">FIM World Championship Motocross Racing</title>
+    <desc>Action from MX2 race two, part of the 2025 Motocross World Championship at Hidden Valley Motorsports Complex in Australia.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923011500 +0000" stop="20250923020000 +0000">
+    <title lang="zh">FIM World Championship Motocross Racing</title>
+    <desc>Action from MXGP race two, part of the 2025 Motocross World Championship at Hidden Valley Motorsports Complex in Australia.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923020000 +0000" stop="20250923030000 +0000">
+    <title lang="zh">EWC All Access</title>
+    <desc>Behind the scenes access to the 2025 Bol d'Or, a prestigious 24-hour motorcycle endurance race at Circuit Paul Ricard in France.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923030000 +0000" stop="20250923040000 +0000">
+    <title lang="zh">British Superbikes Motorcycle Racing</title>
+    <desc>Highlights from round nine of the British Superbike Championship at the iconic TT Circuit Assen in the Netherlands.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923040000 +0000" stop="20250923050000 +0000">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Highlights of the 2019 Maver Mega Match This event, as the country's best match anglers battled to win the sport's most prestigious final.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923050000 +0000" stop="20250923054500 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from race one of the JuniorGP in Emilia-Romagna, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923054500 +0000" stop="20250923063000 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the ETC race one in Emilia-Romagna, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923063000 +0000" stop="20250923071500 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the Moto 2 race in Emilia-Romagna, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923071500 +0000" stop="20250923080000 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from race two of the JuniorGP in Emilia-Romagna, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923080000 +0000" stop="20250923084500 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the ETC race two in Emilia-Romagna, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923084500 +0000" stop="20250923093000 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the Stock class of the 2025 FIM JuniorGP Championship in Emilia-Romagna.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923093000 +0000" stop="20250923103000 +0000">
+    <title lang="zh">EWC All Access</title>
+    <desc>Behind the scenes access to the 2025 Bol d'Or, a prestigious 24-hour motorcycle endurance race at Circuit Paul Ricard in France.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923103000 +0000" stop="20250923113000 +0000">
+    <title lang="zh">Supertri</title>
+    <desc>Supertri makes an emotional return home to the island of Jersey, where it held its first full event back in 2017.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923113000 +0000" stop="20250923120000 +0000">
+    <title lang="zh">Onboard</title>
+    <desc>A special onboard look at the Ocean Race Europe 2025, as the teams face a unique route from the Baltic Sea to a finish in Boka Bay, Montenegro.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923120000 +0000" stop="20250923130000 +0000">
+    <title lang="zh">Major League Baseball</title>
+    <desc>Highlights from Major League Baseball.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923130000 +0000" stop="20250923131500 +0000">
+    <title lang="zh">Training Day</title>
+    <desc>Peter Crouch, Steve Sidwell and Wayne Bridge head to West London to find out more about how Grenfell Athletic FC have been helping the community and bringing people together.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923131500 +0000" stop="20250923134500 +0000">
+    <title lang="zh">CPL T20</title>
+    <desc>Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923134500 +0000" stop="20250923141500 +0000">
+    <title lang="zh">Asia Cup</title>
+    <desc>Highlights from the 2025 Asia Cup Super Four, as India faced Pakistan at Dubai International Cricket Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923141500 +0000" stop="20250923181500 +0000">
+    <title lang="zh">Live: Asia Cup</title>
+    <desc>Action from the 2025 Asia Cup Super Four, as Pakistan and Sri Lanka go head-to-head at Sheikh Zayed Cricket Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923181500 +0000" stop="20250923191500 +0000">
+    <title lang="zh">SailGP</title>
+    <desc>Highlights from the 2025 Rolex Switzerland Sail Grand Prix. Could Sebastien Schneiter's home team sail to victory on Lake Geneva?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923191500 +0000" stop="20250923200000 +0000">
+    <title lang="zh">Sign Up: Into Football</title>
+    <desc>Rolf and Damaris interview Chelsea striker Liam Delap and England hero Hannah Hampton. Enzo Maresca and Sonia Bompastor learn BSL, while Joe Cole reviews the season so far.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923200000 +0000" stop="20250923210000 +0000">
+    <title lang="zh">UCI BMX Racing World Cup</title>
+    <desc>Action from round five of the UCI BMX Racing World Cup in Santiago del Estero, Argentina.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923210000 +0000" stop="20250923220000 +0000">
+    <title lang="zh">UCI BMX Racing World Cup</title>
+    <desc>Action from round six of the UCI BMX Racing World Cup in Santiago del Estero, Argentina.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923220000 +0000" stop="20250923230000 +0000">
+    <title lang="zh">UCI Road World Championships</title>
+    <desc>Highlights from Cycling World Championship in Kigali, Rwanda.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400480" start="20250923230000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">International T20 Cricket</title>
+    <desc>Action from the third T20 between Ireland and England at The Village in Dublin.</desc>
+    <date>2025-09-23</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405060" start="20250921020000 +0000" stop="20250921030000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921030000 +0000" stop="20250921050000 +0000">
-    <title lang="zh">Live: AFL Women's Premiership Football</title>
-    <desc>From Henson Park in Marrickville, New South Wales, Australia.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921050000 +0000" stop="20250921060000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921060000 +0000" stop="20250921070000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921070000 +0000" stop="20250921080000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921080000 +0000" stop="20250921090000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921090000 +0000" stop="20250921100000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921100000 +0000" stop="20250921110000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921110000 +0000" stop="20250921120000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921120000 +0000" stop="20250921130000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921130000 +0000" stop="20250921140000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921140000 +0000" stop="20250921150000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921150000 +0000" stop="20250921160000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921160000 +0000" stop="20250921170000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921170000 +0000" stop="20250921200000 +0000">
-    <title lang="zh">Live: NFL Football</title>
-    <desc>The defending champion Eagles continue their rematch tour by hosting the Rams. Philadelphia beat Los Angeles 28-22 in a 2024 NFC divisional playoff. The Eagles come off a 20-17 victory over the Chiefs, who they defeated 40-22 in Super Bowl 59.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921200000 +0000" stop="20250921203000 +0000">
-    <title lang="zh">Park the Bus</title>
-    <desc>TSN Soccer's Kevin Kilbane and Steven Caldwell discuss the world of soccer as Canada prepares to host the FIFA Men's World Cup in 2026.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921203000 +0000" stop="20250921210000 +0000">
-    <title lang="zh">TSN's Preseason Draft Rankings Show</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921210000 +0000" stop="20250921233000 +0000">
-    <title lang="zh">Live: NHL Hockey</title>
-    <desc>From Canada Life Centre in Winnipeg, Manitoba.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405060" start="20250921233000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">Live: Football Night in America</title>
-    <desc>Host Maria Taylor, Hall of Fame head coach Tony Dungy, former NFL head coach Jason Garrett, former NFL quarterback Chris Simms and NFL insider Mike Florio recap the day's NFL highlights. Jac Collinsworth and Rodney Harrison contribute on-site.</desc>
-    <date>2025-09-21</date>
-  </programme>
   <programme channel="405060" start="20250922002000 +0000" stop="20250922033000 +0000">
     <title lang="zh">Live: NFL Football</title>
     <desc>The Chiefs try to get right as they visit the Giants. Malik Nabers and Wan'Dale Robinson combined for over 300 yards receiving and three TDs, but New York fell to Dallas in overtime in Week 2. Kansas City is 0-2 for the first time since 2014.</desc>
@@ -497,144 +487,419 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-22</date>
   </programme>
-  <programme channel="405060" start="20250922083000 +0000" stop="20250923000000 +0000">
+  <programme channel="405060" start="20250922083000 +0000" stop="20250922093000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922093000 +0000" stop="20250922103000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922103000 +0000" stop="20250922113000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922113000 +0000" stop="20250922123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922123000 +0000" stop="20250922133000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922133000 +0000" stop="20250922143000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922143000 +0000" stop="20250922153000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922153000 +0000" stop="20250922163000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922163000 +0000" stop="20250922170000 +0000">
+    <title lang="zh">2025 Motorcycle Experience</title>
+    <desc>News and reviews from cycle enthusiasts.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922170000 +0000" stop="20250922173000 +0000">
+    <title lang="zh">Canadian Superbike Championship</title>
+    <desc>From Canadian Tire Motorsport Park in Bowmanville, Ont.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922173000 +0000" stop="20250922180000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922180000 +0000" stop="20250922183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922183000 +0000" stop="20250922190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922190000 +0000" stop="20250922210000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922210000 +0000" stop="20250922213000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922213000 +0000" stop="20250922220000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250922220000 +0000" stop="20250923000000 +0000">
+    <title lang="zh">Live: NFL Monday Night Countdown</title>
+    <desc>An in-depth look at Monday's game and reviews of Sunday's games.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405060" start="20250923001500 +0000" stop="20250923033000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>High-powered offenses battle when Baltimore hosts Detroit. The Ravens mauled the Browns 41-17 in Week 2, and squashed the Lions 38-6 when they met in 2023. Amon-Ra St. Brown hauled in three TD catches in Detroit's 52-21 Week 2 blasting of Chicago.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923033000 +0000" stop="20250923050000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923050000 +0000" stop="20250923060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923060000 +0000" stop="20250923070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923070000 +0000" stop="20250923073000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923073000 +0000" stop="20250923083000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923083000 +0000" stop="20250923093000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923093000 +0000" stop="20250923103000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923103000 +0000" stop="20250923113000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923113000 +0000" stop="20250923123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923123000 +0000" stop="20250923133000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923133000 +0000" stop="20250923143000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923143000 +0000" stop="20250923153000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923153000 +0000" stop="20250923163000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923163000 +0000" stop="20250923170000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923170000 +0000" stop="20250923173000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923173000 +0000" stop="20250923183000 +0000">
+    <title lang="zh">E60</title>
+    <desc>ESPN's morning sports magazine show, featuring the biggest names and stories in sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923183000 +0000" stop="20250923190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923190000 +0000" stop="20250923200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923200000 +0000" stop="20250923210000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923210000 +0000" stop="20250923213000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923213000 +0000" stop="20250923220000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923220000 +0000" stop="20250923233000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250923233000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405060" start="20250924000000 +0000" stop="20250925000000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From Canada Life Centre in Winnipeg, Manitoba.</desc>
+    <date>2025-09-24</date>
   </programme>
 <channel id="405134">
     <display-name lang="Canada">TSN4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405134" start="20250921000000 +0000" stop="20250921003000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
+  <programme channel="405134" start="20250922013000 +0000" stop="20250922033000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The Chiefs try to get right as they visit the Giants. Malik Nabers and Wan'Dale Robinson combined for over 300 yards receiving and three TDs, but New York fell to Dallas in overtime in Week 2. Kansas City is 0-2 for the first time since 2014.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405134" start="20250921003000 +0000" stop="20250921010000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
+  <programme channel="405134" start="20250922033000 +0000" stop="20250922050000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405134" start="20250921010000 +0000" stop="20250921013000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
+  <programme channel="405134" start="20250922050000 +0000" stop="20250922060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405134" start="20250921013000 +0000" stop="20250921020000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405134" start="20250921020000 +0000" stop="20250921060000 +0000">
-    <title lang="zh">Live: 2025 Laver Cup Tennis</title>
-    <desc>From Chase Center in San Francisco.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405134" start="20250921060000 +0000" stop="20250921070000 +0000">
+  <programme channel="405134" start="20250922060000 +0000" stop="20250922070000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405134" start="20250921070000 +0000" stop="20250921080000 +0000">
+  <programme channel="405134" start="20250922070000 +0000" stop="20250922080000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922080000 +0000" stop="20250922090000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922090000 +0000" stop="20250922100000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922100000 +0000" stop="20250922110000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922110000 +0000" stop="20250922120000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922120000 +0000" stop="20250922130000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922130000 +0000" stop="20250922140000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922140000 +0000" stop="20250922150000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922150000 +0000" stop="20250922160000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922160000 +0000" stop="20250922180000 +0000">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922180000 +0000" stop="20250922183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922183000 +0000" stop="20250922190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922190000 +0000" stop="20250922200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922200000 +0000" stop="20250922220000 +0000">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922220000 +0000" stop="20250922230000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250922230000 +0000" stop="20250923000000 +0000">
+    <title lang="zh">NFL Monday Night Countdown</title>
+    <desc>An in-depth look at Monday's game and reviews of Sunday's games.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405134" start="20250923001500 +0000" stop="20250923033000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>High-powered offenses battle when Baltimore hosts Detroit. The Ravens mauled the Browns 41-17 in Week 2, and squashed the Lions 38-6 when they met in 2023. Amon-Ra St. Brown hauled in three TD catches in Detroit's 52-21 Week 2 blasting of Chicago.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923033000 +0000" stop="20250923050000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923050000 +0000" stop="20250923060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923060000 +0000" stop="20250923070000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-23</date>
   </programme>
-  <programme channel="405134" start="20250921080000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">SportsCentre</title>
+  <programme channel="405134" start="20250923070000 +0000" stop="20250923080000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923080000 +0000" stop="20250923090000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923090000 +0000" stop="20250923100000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923100000 +0000" stop="20250923110000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923110000 +0000" stop="20250923120000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923120000 +0000" stop="20250923130000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923130000 +0000" stop="20250923140000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923140000 +0000" stop="20250923150000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923150000 +0000" stop="20250923160000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923160000 +0000" stop="20250923180000 +0000">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923180000 +0000" stop="20250923190000 +0000">
+    <title lang="zh">The Rebuild: Inside the Montreal Canadiens</title>
+    <desc>After a training camp is filled with injuries and surprises, the season kicks off in Montreal.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923190000 +0000" stop="20250923200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923200000 +0000" stop="20250923220000 +0000">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923220000 +0000" stop="20250923230000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405134" start="20250923230000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From Scotiabank Arena in Toronto.</desc>
+    <date>2025-09-23</date>
   </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400479" start="20250921000000 +0000" stop="20250921010000 +0000">
-    <title lang="zh">Tour de Luxembourg</title>
-    <desc>Men's Cycling Pro Series action from stage four of the 2025 Tour of Luxembourg, as the riders take on a demanding 26km individual time trial around Niederanven.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921010000 +0000" stop="20250921020000 +0000">
-    <title lang="zh">UCI ProSeries Cycling</title>
-    <desc>Men's Cycling Pro Series action from the Super 8 Classic, a single-day race held in the region of Flemish Brabant, Belgium. Who will thrive on the 200km route from Brakel to Haacht?</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921020000 +0000" stop="20250921040000 +0000">
-    <title lang="zh">Live: Laver Cup</title>
-    <desc>Action from the Laver Cup in San Francisco.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921040000 +0000" stop="20250921060000 +0000">
-    <title lang="zh">Live: Laver Cup</title>
-    <desc>Action from the Laver Cup in San Francisco.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921060000 +0000" stop="20250921073000 +0000">
-    <title lang="zh">Premier League</title>
-    <desc>Action from the first Merseyside derby of the season, as Liverpool and Everton go head-to-head at Anfield. Diogo Jota scored the winner for the Reds when these rivals last met.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921073000 +0000" stop="20250921080000 +0000">
-    <title lang="zh">UEFA Europa League and Conference League Magazine</title>
-    <desc>Jurgen Klinsmann makes a phone call back to his old club, Stuttgart, ahead of their UEFA Europa League campaign. And, we delve into the success of SK Brann.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921080000 +0000" stop="20250921113000 +0000">
-    <title lang="zh">Live: UCI Road World Championships</title>
-    <desc>Action from the Women's Elite Time Trial, part of the Cycling World Championship in Kigali, Rwanda.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921113000 +0000" stop="20250921153000 +0000">
-    <title lang="zh">Live: UCI Road World Championships</title>
-    <desc>Action from the Men's Elite Time Trial, part of the Cycling World Championship in Kigali, Rwanda.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921153000 +0000" stop="20250921160000 +0000">
-    <title lang="zh">CPL T20</title>
-    <desc>Highlights from the Caribbean Premier League second qualifier between Nicholas Pooran's Trinbago Knight Riders and David Wiese's Saint Lucia Kings at Providence Stadium.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921160000 +0000" stop="20250921170000 +0000">
-    <title lang="zh">Major League Baseball</title>
-    <desc>Highlights from Major League Baseball.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921170000 +0000" stop="20250921173000 +0000">
-    <title lang="zh">MLB: Off The Bat</title>
-    <desc>All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921173000 +0000" stop="20250921204500 +0000">
-    <title lang="zh">Live: Major League Baseball</title>
-    <desc>Action from Major League Baseball as New York Yankees and Baltimore Orioles face-off.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921204500 +0000" stop="20250921210000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921210000 +0000" stop="20250921213000 +0000">
-    <title lang="zh">British Superbikes Motorcycle Racing</title>
-    <desc>Action from race two of the British Superbikes at the iconic TT Circuit Assen in the Netherlands.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921213000 +0000" stop="20250921220000 +0000">
-    <title lang="zh">British Superbikes Motorcycle Racing</title>
-    <desc>Action from race three of the British Superbikes at the iconic TT Circuit Assen in the Netherlands.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921220000 +0000" stop="20250921230000 +0000">
-    <title lang="zh">UCI Road World Championships</title>
-    <desc>Highlights from Cycling World Championship in Kigali, Rwanda.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400479" start="20250921230000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">UCI Continental Circuits</title>
-    <desc>Men's Cycling Pro Series action from stage five of the 2025 Tour of Slovakia. The riders will journey 124km from Nova Dubnica to a finish in Kohutka.</desc>
-    <date>2025-09-21</date>
-  </programme>
   <programme channel="400479" start="20250922000000 +0000" stop="20250922010000 +0000">
     <title lang="zh">Tour de Luxembourg</title>
     <desc>Men's Cycling Pro Series action from stage five of the 2025 Tour of Luxembourg, as the riders tackle a 176km route from Mersch to a finish in Limpertsberg.</desc>
@@ -765,80 +1030,180 @@
     <desc>We revisit the main event of UFC 302 at Prudential Center in New Jersey, as Islam Makhachev and Dustin Poirier battled it out for the lightweight title.</desc>
     <date>2025-09-22</date>
   </programme>
+  <programme channel="400479" start="20250923000000 +0000" stop="20250923010000 +0000">
+    <title lang="zh">PREM Rugby Cup</title>
+    <desc>Action from the PREM Rugby Cup.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923010000 +0000" stop="20250923020000 +0000">
+    <title lang="zh">Supertri</title>
+    <desc>Supertri makes an emotional return home to the island of Jersey, where it held its first full event back in 2017.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923020000 +0000" stop="20250923030000 +0000">
+    <title lang="zh">WA World Athletics Championships</title>
+    <desc>Highlights from the final day of the 2025 World Athletics Championships, featuring the finals of the Women's High Jump, Women's 800m, Men's 5,000m and the 4x100m Relays.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923030000 +0000" stop="20250923040000 +0000">
+    <title lang="zh">UCI Road World Championships</title>
+    <desc>Highlights from Cycling World Championship in Kigali, Rwanda.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923040000 +0000" stop="20250923050000 +0000">
+    <title lang="zh">Tour de Luxembourg</title>
+    <desc>Men's Cycling Pro Series action from stage five of the 2025 Tour of Luxembourg, as the riders tackle a 176km route from Mersch to a finish in Limpertsberg.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923050000 +0000" stop="20250923053000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>After getting back to winning ways in the league, Arsenal kick-off their UEFA Champions League campaign with a trip to face Ernesto Valverde's Athletic Bilbao at San Mames Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923053000 +0000" stop="20250923060000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Eredivisie winners PSV welcome Sebastien Pocognoli's Belgian champions Union Saint-Gilloise to Philips Stadion.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923060000 +0000" stop="20250923063000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Real Madrid begin their pursuit of a 16th Champions League trophy as they host Roberto De Zerbi's Marseille at Santiago Bernabeu Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923063000 +0000" stop="20250923070000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Two-time Champions League winners Juventus look to get their European campaign off to a strong start as they face Niko Kovac's Borussia Dortmund at Allianz Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923070000 +0000" stop="20250923073000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Bruno Lage's Benfica face-off against Azerbaijani champions Qarabag at Estadio da Luz. Can Gurban Gurbanov's Qarabag spring a surprise against the two-time European Cup winners?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923073000 +0000" stop="20250923080000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Cypriot champions Pafos make their UEFA Champions League debut as they travel to face Jose Luis Mendilibar's Olympiacos at Karaiskakis Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923080000 +0000" stop="20250923083000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Czech champions Slavia Prague welcome Kjetil Knutsen's in-form Bodo/Glimt to Fortuna Arena.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923083000 +0000" stop="20250923090000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Arne Slot's Liverpool start their hunt for a seventh UEFA Champions League crown as they host Diego Simeone's La Liga giants Athletico Madrid at Anfield.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923090000 +0000" stop="20250923093000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Bayern Munich take on Chelsea at Allianz Arena in a repeat of the 2012 UEFA Champions League final, which the Blues won in dramatic fashion.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923093000 +0000" stop="20250923100000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Paris Saint-Germain kick-off the defence of their UEFA Champions League crown as they host Ivan Juric's Atalanta at Parc des Princes.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923100000 +0000" stop="20250923103000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>John Heitinga's new-look Ajax side welcome last year's UEFA Champions League runners-up, Inter, to the Johan Cruyff Arena.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923103000 +0000" stop="20250923110000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Danish champions Copenhagen face-off against Bayer Leverkusen at Parken Stadium. Can former Denmark manager Kasper Hjulmand claim his first UCL win in charge of Leverkusen?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923110000 +0000" stop="20250923113000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>After their demolition of Rangers in the play-offs, Club Brugge kick-off their league phase campaign by hosting Adi Hutter's Monaco at Jan Breydel Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923113000 +0000" stop="20250923120000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Eddie Howe's Newcastle United host five-time UEFA Champions League winners Barcelona in what promises to be a red-hot atmosphere at St James' Park.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923120000 +0000" stop="20250923123000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Kevin De Bruyne makes an emotional return to the Etihad Stadium, as Napoli face a Manchester City side who will be on a high after a big derby day win.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923123000 +0000" stop="20250923130000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Dino Toppmoller's Eintracht Frankfurt go head-to-head with in-form Turkish champions Galatasaray at Deutsche Bank Park.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923130000 +0000" stop="20250923133000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>After dumping Celtic out in the play-offs, Kazakhstan's Kairat Almaty travel to face Portuguese champions Sporting CP at Estadio Jose Alvalade.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923133000 +0000" stop="20250923140000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>We take a special look at Kevin De Bruyne's return to the Etihad Stadium. Manager Juan Carlos Carcedo and defender David Goldar talk about Pafos' journey to the Champions League.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923140000 +0000" stop="20250923150000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best of the recent action from matchday five of the Premier League, featuring the Merseyside derby, Man United v Chelsea, and Arsenal v Man City.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923150000 +0000" stop="20250923160000 +0000">
+    <title lang="zh">Supertri</title>
+    <desc>Supertri makes an emotional return home to the island of Jersey, where it held its first full event back in 2017.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923160000 +0000" stop="20250923170000 +0000">
+    <title lang="zh">T100 Triathlon World Tour</title>
+    <desc>Highlights from the T100 Triathlon World Tour in Oropesa Del Mar, Spain.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923170000 +0000" stop="20250923173000 +0000">
+    <title lang="zh">Premier League Netbusters</title>
+    <desc>A unique and fast-paced look at all the best action from the Premier League, including Liverpool v Everton, Man United v Chelsea and Arsenal v Man City.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923173000 +0000" stop="20250923180000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>In this episode, we look back at Yoshida's journey from Japan to England's top-flight, his role as a leader for club and country, and the cultural bridge he helped build along the way. Now in the final stages of his playing career with LA Galaxy in the USA, we catch up with him as he looks to inspire the next generation, both in Japan and around the world.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923180000 +0000" stop="20250923190000 +0000">
+    <title lang="zh">Serie A Football</title>
+    <desc>Cristian Chivu's Inter look to avoid a third straight Serie A defeat, as they host Fabio Grosso's Sassuolo at San Siro. Sassuolo won 1-0 when these sides last met.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923190000 +0000" stop="20250923200000 +0000">
+    <title lang="zh">Serie A Football</title>
+    <desc>Champions Napoli look to continue their perfect start to the Serie A season, as they welcome newly-promoted Pisa to Stadio Diego Armando Maradona.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923200000 +0000" stop="20250923203000 +0000">
+    <title lang="zh">Ally's Social Club</title>
+    <desc>Mikel Arteta talks to Ally McCoist about playing alongside Xavi, Iniesta and Ronaldinho, his relationship with Pep Guardiola and his vision for Arsenal this season.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923203000 +0000" stop="20250923220000 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>The extraordinary story of how a young David Rocastle's meteoric rise to stardom inspired another legend in the shape of Ian Wright.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923220000 +0000" stop="20250923234500 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>A film charting Tom Daley's career from his first Olympics in Beijing at 14 years old, through winning gold at Tokyo 2020 and his final Olympic appearance at Paris 2024.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400479" start="20250923234500 +0000" stop="20250924000000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-09-23</date>
+  </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400478" start="20250921000000 +0000" stop="20250921051500 +0000">
-    <title lang="zh">Live: WA World Athletics Championships</title>
-    <desc>Action from the morning session on day nine of the World Athletics Championships in Tokyo, featuring action from the Men's Decathlon.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921051500 +0000" stop="20250921070000 +0000">
-    <title lang="zh">Live: Women's Australian Rules</title>
-    <desc>Action from the AFLW clash between St Kilda and Richmond at RSEA Park in Melbourne. Can the Tigers avoid a sixth straight defeat?</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921070000 +0000" stop="20250921071500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the first T20 between Ireland and England at The Village in Dublin, featuring a big-hitting innings by in-form opener Phil Salt.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921071500 +0000" stop="20250921073000 +0000">
-    <title lang="zh">UEFA Champions League Goals Reload</title>
-    <desc>The pick of the goals from matchday one of the UEFA Champions League, including Athletic v Arsenal, Bayern v Chelsea, Newcastle v Barcelona and Liverpool v Atletico.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921073000 +0000" stop="20250921083000 +0000">
-    <title lang="zh">UCI Continental Circuits</title>
-    <desc>Men's Cycling Pro Series action from stage four of the 2025 Tour of Slovakia. This 169km route sees the riders journey from Vrable to Sladkovicovo.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921083000 +0000" stop="20250921123000 +0000">
-    <title lang="zh">Live: WA World Athletics Championships</title>
-    <desc>The 2025 World Athletics Championships comes to a close with the finals of the Women's High Jump, Women's 800m, Men's 5,000m and the 4x100m Relays.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921123000 +0000" stop="20250921150000 +0000">
-    <title lang="zh">Live: British Superbikes Motorcycle Racing</title>
-    <desc>British Superbikes action from day two and round nine at the iconic TT Circuit Assen in the Netherlands.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921150000 +0000" stop="20250921153000 +0000">
-    <title lang="zh">UEFA Champions League Magazine</title>
-    <desc>We take a special look at Kevin De Bruyne's return to the Etihad Stadium. Manager Juan Carlos Carcedo and defender David Goldar talk about Pafos' journey to the Champions League.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921153000 +0000" stop="20250921163000 +0000">
-    <title lang="zh">WNBA Basketball</title>
-    <desc>Action from the Women's National Basketball Association.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921163000 +0000" stop="20250921173000 +0000">
-    <title lang="zh">Women's One-Day International Cricket</title>
-    <desc>Action from the third Women's One Day International between India and Australia at Arun Jaitley Cricket Stadium. Who will claim victory in this series decider?</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921173000 +0000" stop="20250921190000 +0000">
-    <title lang="zh">SailGP</title>
-    <desc>Day two of the 2025 Rolex Switzerland Sail Grand Prix. Who will triumph on SailGP's first-ever visit to Lake Geneva?</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921190000 +0000" stop="20250921210000 +0000">
-    <title lang="zh">Live: Laver Cup</title>
-    <desc>Action from the Laver Cup in San Francisco.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921210000 +0000" stop="20250921230000 +0000">
-    <title lang="zh">Live: Laver Cup</title>
-    <desc>Action from the Laver Cup in San Francisco.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="400478" start="20250921230000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">Live: Laver Cup</title>
-    <desc>Action from the Laver Cup in San Francisco.</desc>
-    <date>2025-09-21</date>
-  </programme>
   <programme channel="400478" start="20250922010000 +0000" stop="20250922030000 +0000">
     <title lang="zh">Live: Laver Cup</title>
     <desc>Action from the Laver Cup in San Francisco.</desc>
@@ -974,50 +1339,125 @@
     <desc>Action from the XCO Elite, part of the Men's UCI Mountain Bike World Series in Lenzerheide, Switzerland.</desc>
     <date>2025-09-22</date>
   </programme>
+  <programme channel="400478" start="20250923000000 +0000" stop="20250923010000 +0000">
+    <title lang="zh">UCI ProSeries Cycling</title>
+    <desc>Men's Cycling Pro Series action from the Super 8 Classic, a single-day race held in the region of Flemish Brabant, Belgium. Who will thrive on the 200km route from Brakel to Haacht?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923010000 +0000" stop="20250923030000 +0000">
+    <title lang="zh">English Open Snooker</title>
+    <desc>Highlights from the English Open, part of the Snooker Home Nations Series.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923030000 +0000" stop="20250923033000 +0000">
+    <title lang="zh">Asia Cup</title>
+    <desc>Highlights from the 2025 Asia Cup Super Four, as India faced Pakistan at Dubai International Cricket Stadium.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923033000 +0000" stop="20250923040000 +0000">
+    <title lang="zh">CPL T20</title>
+    <desc>Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923040000 +0000" stop="20250923050000 +0000">
+    <title lang="zh">Women's One-Day International Cricket</title>
+    <desc>Action from the third Women's One Day International between India and Australia at Arun Jaitley Cricket Stadium. Who will claim victory in this series decider?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923050000 +0000" stop="20250923060000 +0000">
+    <title lang="zh">PREM Rugby</title>
+    <desc>Gallagher Premiership Rugby action as Sale Sharks and Saracens face-off at Salford Community Stadium. Who will win this crucial contest in the race for a top-four finish?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923060000 +0000" stop="20250923070000 +0000">
+    <title lang="zh">PREM Rugby</title>
+    <desc>Action from the Gallagher Premiership Rugby clash between Bath Rugby and Newcastle Falcons at the Recreation Ground. Table toppers Bath are seeking their fifth league win in a row.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923070000 +0000" stop="20250923080000 +0000">
+    <title lang="zh">PREM Rugby</title>
+    <desc>Gallagher Premiership Rugby action as Leicester Tigers and Harlequins face-off at Mattioli Woods Welford Road. These sides were involved in a thrilling draw earlier in the season.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923080000 +0000" stop="20250923090000 +0000">
+    <title lang="zh">PREM Rugby</title>
+    <desc>Gallagher Premiership Rugby action as Northampton Saints face top-four contenders Bristol Bears at cinch Stadium. Can the Bears avoid a third consecutive defeat?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923090000 +0000" stop="20250923100000 +0000">
+    <title lang="zh">PREM Rugby</title>
+    <desc>Action from the Gallagher Premiership Rugby clash between Gloucester Rugby and Exeter Chiefs at Kingsholm Stadium. The Chiefs beat Exeter 22-15 back in December.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923100000 +0000" stop="20250923110000 +0000">
+    <title lang="zh">PREM Rugby</title>
+    <desc>Gallagher Premiership Rugby action as Leicester Tigers face Sale Sharks at Mattioli Woods Welford Road. Sale are looking to pick up their fifth consecutive league win.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923110000 +0000" stop="20250923120000 +0000">
+    <title lang="zh">PREM Rugby</title>
+    <desc>Gallagher Premiership Rugby action as Saracens face Newcastle Falcons at StoneX Stadium. The Falcons beat Saracens 17-12 when these sides met in November.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923120000 +0000" stop="20250923130000 +0000">
+    <title lang="zh">PREM Rugby</title>
+    <desc>Gallagher Premiership Rugby action as Bristol Bears face West Country rivals Bath Rugby at Principality Stadium. Can the Bears upset the league leaders in front of a bumper crowd?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923130000 +0000" stop="20250923140000 +0000">
+    <title lang="zh">NWSL</title>
+    <desc>National Women's Soccer League action as Orlando Pride face-off against North Carolina Courage at Inter&amp;Co Stadium. Can the Pride find a much-needed league win?</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923140000 +0000" stop="20250923150000 +0000">
+    <title lang="zh">NWSL</title>
+    <desc>National Women's Soccer League action as Portland Thorns take on San Diego Wave FC at Providence Park. The Wave are winless in their last four league games.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923150000 +0000" stop="20250923153000 +0000">
+    <title lang="zh">UEFA Europa League and Conference League Magazine</title>
+    <desc>Jurgen Klinsmann makes a phone call back to his old club, Stuttgart, ahead of their UEFA Europa League campaign. And, we delve into the success of SK Brann.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923153000 +0000" stop="20250923160000 +0000">
+    <title lang="zh">Onboard</title>
+    <desc>A special onboard look at the Ocean Race Europe 2025, as the teams face a unique route from the Baltic Sea to a finish in Boka Bay, Montenegro.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923160000 +0000" stop="20250923170000 +0000">
+    <title lang="zh">PREM Rugby Cup</title>
+    <desc>Action from the PREM Rugby Cup.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923170000 +0000" stop="20250923183000 +0000">
+    <title lang="zh">Australian Rules</title>
+    <desc>Action from the Australian Football League.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923183000 +0000" stop="20250923200000 +0000">
+    <title lang="zh">Australian Rules</title>
+    <desc>Action from the Australian Football League.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923200000 +0000" stop="20250923210000 +0000">
+    <title lang="zh">FEI World Cup Jumping</title>
+    <desc>The Longines FEI Jumping World Cup series returns with the first North American League qualifier of the season in Williamsburg, Michigan.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923210000 +0000" stop="20250923230000 +0000">
+    <title lang="zh">Australia Championship Supercars</title>
+    <desc>Highlights from the 2025 Repco Supercars Championship and the AirTouch 500 at The Bend.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="400478" start="20250923230000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">Serie A Football</title>
+    <desc>Cristian Chivu's Inter look to avoid a third straight Serie A defeat, as they host Fabio Grosso's Sassuolo at San Siro. Sassuolo won 1-0 when these sides last met.</desc>
+    <date>2025-09-23</date>
+  </programme>
 <channel id="405049">
     <display-name lang="Canada">TSN1</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405049" start="20250921100000 +0000" stop="20250921110000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405049" start="20250921110000 +0000" stop="20250921120000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405049" start="20250921120000 +0000" stop="20250921130000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405049" start="20250921130000 +0000" stop="20250921140000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405049" start="20250921140000 +0000" stop="20250921170000 +0000">
-    <title lang="zh">Live: NFL Countdown</title>
-    <desc>Highlights from previous week's action in the National Football League.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405049" start="20250921170000 +0000" stop="20250921200000 +0000">
-    <title lang="zh">Live: NFL Football</title>
-    <desc>The defending champion Eagles continue their rematch tour by hosting the Rams. Philadelphia beat Los Angeles 28-22 in a 2024 NFC divisional playoff. The Eagles come off a 20-17 victory over the Chiefs, who they defeated 40-22 in Super Bowl 59.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405049" start="20250921200000 +0000" stop="20250921230000 +0000">
-    <title lang="zh">Live: NFL Football</title>
-    <desc>Los Angeles finishes a run through the AFC West gauntlet by hosting Denver. Last season, the Chargers swept the season series against the Broncos for the first time since 2010. The Bolts posted a 5-3 record at SoFi Stadium in 2024.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405049" start="20250921230000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">Live: Football Night in America</title>
-    <desc>Host Maria Taylor, Hall of Fame head coach Tony Dungy, former NFL head coach Jason Garrett, former NFL quarterback Chris Simms and NFL insider Mike Florio recap the day's NFL highlights. Jac Collinsworth and Rodney Harrison contribute on-site.</desc>
-    <date>2025-09-21</date>
-  </programme>
   <programme channel="405049" start="20250922002000 +0000" stop="20250922033000 +0000">
     <title lang="zh">Live: NFL Football</title>
     <desc>The Chiefs try to get right as they visit the Giants. Malik Nabers and Wan'Dale Robinson combined for over 300 yards receiving and three TDs, but New York fell to Dallas in overtime in Week 2. Kansas City is 0-2 for the first time since 2014.</desc>
@@ -1128,85 +1568,125 @@
     <desc>An in-depth look at Monday's game and reviews of Sunday's games.</desc>
     <date>2025-09-22</date>
   </programme>
+  <programme channel="405049" start="20250923001500 +0000" stop="20250923033000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>High-powered offenses battle when Baltimore hosts Detroit. The Ravens mauled the Browns 41-17 in Week 2, and squashed the Lions 38-6 when they met in 2023. Amon-Ra St. Brown hauled in three TD catches in Detroit's 52-21 Week 2 blasting of Chicago.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923033000 +0000" stop="20250923050000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923050000 +0000" stop="20250923060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923060000 +0000" stop="20250923070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923070000 +0000" stop="20250923073000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923073000 +0000" stop="20250923083000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923083000 +0000" stop="20250923093000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923093000 +0000" stop="20250923103000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923103000 +0000" stop="20250923113000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923113000 +0000" stop="20250923123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923123000 +0000" stop="20250923133000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923133000 +0000" stop="20250923143000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923143000 +0000" stop="20250923153000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923153000 +0000" stop="20250923163000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923163000 +0000" stop="20250923173000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923173000 +0000" stop="20250923183000 +0000">
+    <title lang="zh">E60</title>
+    <desc>ESPN's morning sports magazine show, featuring the biggest names and stories in sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923183000 +0000" stop="20250923190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923190000 +0000" stop="20250923200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923200000 +0000" stop="20250923210000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923210000 +0000" stop="20250923213000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923213000 +0000" stop="20250923220000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923220000 +0000" stop="20250923233000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405049" start="20250923233000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">Live: WNBA Basketball</title>
+    <desc>From the Target Center in Minneapolis.</desc>
+    <date>2025-09-23</date>
+  </programme>
 <channel id="404833">
     <display-name lang="Canada">TSN2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="404833" start="20250921013000 +0000" stop="20250921020000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921020000 +0000" stop="20250921033000 +0000">
-    <title lang="zh">SailGP Racing</title>
-    <desc>From Geneva, Switzerland.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921033000 +0000" stop="20250921040000 +0000">
-    <title lang="zh">Bob McKenzie's Pre-Season Draft Ranking Show</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921040000 +0000" stop="20250921070000 +0000">
-    <title lang="zh">CFL Football</title>
-    <desc>From TD Place Stadium in Ottawa.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921070000 +0000" stop="20250921100000 +0000">
-    <title lang="zh">CFL Football</title>
-    <desc>The East-leading Tiger-Cats (8-5) play host to the Elks (5-8) in the Electric City. Hamilton picked up a 28-24 victory over Edmonton in Alberta on Aug. 2. Bo Levi Mitchell (HAM) lit up Edmonton for 350 passing yards and three TDs, two to Tim White.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921100000 +0000" stop="20250921130000 +0000">
-    <title lang="zh">CFL Football</title>
-    <desc>The Blue Bombers (6-7) try to snap a three-game skid when they visit the Redblacks (4-9). In Week 11, Ottawa erased a 17-point fourth-quarter deficit, but Winnipeg claimed a 30-27 victory on a 47-yard field from Sergio Castillo as time expired.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921130000 +0000" stop="20250921160000 +0000">
-    <title lang="zh">CFL Football</title>
-    <desc>The East-leading Tiger-Cats (8-5) play host to the Elks (5-8) in the Electric City. Hamilton picked up a 28-24 victory over Edmonton in Alberta on Aug. 2. Bo Levi Mitchell (HAM) lit up Edmonton for 350 passing yards and three TDs, two to Tim White.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921160000 +0000" stop="20250921163000 +0000">
-    <title lang="zh">Bob McKenzie's Pre-Season Draft Ranking Show</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921163000 +0000" stop="20250921183000 +0000">
-    <title lang="zh">MLS Soccer</title>
-    <desc>From Saputo Stadium in Montreal-Est, Québec.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921183000 +0000" stop="20250921190000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921190000 +0000" stop="20250921210000 +0000">
-    <title lang="zh">Live: WNBA Basketball</title>
-    <desc>All the latest basketball action from the WNBA.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921210000 +0000" stop="20250921213000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921213000 +0000" stop="20250921220000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921220000 +0000" stop="20250921230000 +0000">
-    <title lang="zh">Live: Sunday Night Baseball Countdown</title>
-    <desc>A preview of the game of the week, with interviews, highlights and analysis.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="404833" start="20250921230000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">Live: MLB Baseball</title>
-    <desc>From Daikin Park in Houston.</desc>
-    <date>2025-09-21</date>
-  </programme>
   <programme channel="404833" start="20250922020000 +0000" stop="20250922023000 +0000">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
@@ -1217,69 +1697,494 @@
     <desc>From Saint-Tropez, France.</desc>
     <date>2025-09-22</date>
   </programme>
-  <programme channel="404833" start="20250922040000 +0000" stop="20250923000000 +0000">
+  <programme channel="404833" start="20250922040000 +0000" stop="20250922070000 +0000">
     <title lang="zh">CFL Football</title>
     <desc>Week 16 in the CFL begins with the Alouettes (6-7) heading down the 405 to face the Argonauts (5-8). Montreal has won both meetings with Toronto this year, but both were at home. Argos quarterback Nick Arbuckle leads the CFL with 4,089 passing yards.</desc>
     <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922070000 +0000" stop="20250922100000 +0000">
+    <title lang="zh">CFL Football</title>
+    <desc>The Stampeders return from their final bye in 2025 ready to face the Lions. BC went 2-1 versus Calgary in 2024, with the host winning each match. Nathan Rourke threw for 308 yards and created two touchdowns as BC beat Ottawa 38-27 in Week 15.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922100000 +0000" stop="20250922130000 +0000">
+    <title lang="zh">CFL Football</title>
+    <desc>The Blue Bombers (6-7) try to snap a three-game skid when they visit the Redblacks (4-9). In Week 11, Ottawa erased a 17-point fourth-quarter deficit, but Winnipeg claimed a 30-27 victory on a 47-yard field from Sergio Castillo as time expired.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922130000 +0000" stop="20250922160000 +0000">
+    <title lang="zh">CFL Football</title>
+    <desc>The East-leading Tiger-Cats (8-5) play host to the Elks (5-8) in the Electric City. Hamilton picked up a 28-24 victory over Edmonton in Alberta on Aug. 2. Bo Levi Mitchell (HAM) lit up Edmonton for 350 passing yards and three TDs, two to Tim White.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922160000 +0000" stop="20250922180000 +0000">
+    <title lang="zh">Live: The Pat McAfee Show</title>
+    <desc>Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922180000 +0000" stop="20250922200000 +0000">
+    <title lang="zh">Formula 1 Racing</title>
+    <desc>The Formula One series moves on from Europe and runs the Azerbaijan Grand Prix on the Baku streets. Max Verstappen ended a run of McLaren dominance with a win at the Italian Grand Prix on Sept. 7. McLaren's Oscar Piastri won this race in 2024.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922200000 +0000" stop="20250922210000 +0000">
+    <title lang="zh">The Amazing Race Canada</title>
+    <desc>On the high-stakes season finale, the final teams head to Collingwood, Ont. for a double Roadblock and chance to jetsurf their way to victory!</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922210000 +0000" stop="20250922213000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922213000 +0000" stop="20250922220000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922220000 +0000" stop="20250922230000 +0000">
+    <title lang="zh">The Rebuild: Inside the Montreal Canadiens</title>
+    <desc>After a training camp is filled with injuries and surprises, the season kicks off in Montreal.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250922230000 +0000" stop="20250923000000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From the Bell Centre in Montreal.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="404833" start="20250923013000 +0000" stop="20250923020000 +0000">
+    <title lang="zh">Park the Bus</title>
+    <desc>TSN Soccer's Kevin Kilbane and Steven Caldwell discuss the world of soccer as Canada prepares to host the FIFA Men's World Cup in 2026.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923020000 +0000" stop="20250923023000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923023000 +0000" stop="20250923030000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923030000 +0000" stop="20250923033000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923033000 +0000" stop="20250923040000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923040000 +0000" stop="20250923060000 +0000">
+    <title lang="zh">E60</title>
+    <desc>An intense rivalry in sports history is relived.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923060000 +0000" stop="20250923063000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923063000 +0000" stop="20250923070000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923070000 +0000" stop="20250923073000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923073000 +0000" stop="20250923080000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923080000 +0000" stop="20250923083000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923083000 +0000" stop="20250923090000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923090000 +0000" stop="20250923093000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923093000 +0000" stop="20250923100000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923100000 +0000" stop="20250923103000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923103000 +0000" stop="20250923110000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923110000 +0000" stop="20250923113000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923113000 +0000" stop="20250923120000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923120000 +0000" stop="20250923123000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923123000 +0000" stop="20250923130000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923130000 +0000" stop="20250923133000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923133000 +0000" stop="20250923140000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923140000 +0000" stop="20250923143000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923143000 +0000" stop="20250923150000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923150000 +0000" stop="20250923153000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923153000 +0000" stop="20250923160000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923160000 +0000" stop="20250923180000 +0000">
+    <title lang="zh">Live: The Pat McAfee Show</title>
+    <desc>Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923180000 +0000" stop="20250923183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923183000 +0000" stop="20250923190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923190000 +0000" stop="20250923193000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923193000 +0000" stop="20250923200000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923200000 +0000" stop="20250923203000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923203000 +0000" stop="20250923210000 +0000">
+    <title lang="zh">2025 Motorcycle Experience</title>
+    <desc>News and reviews from cycle enthusiasts.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923210000 +0000" stop="20250923213000 +0000">
+    <title lang="zh">Canadian Superbike Championship</title>
+    <desc>From Canadian Tire Motorsport Park in Bowmanville, Ont.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923213000 +0000" stop="20250923220000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The most outrageous moments in NASCAR history.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923220000 +0000" stop="20250923230000 +0000">
+    <title lang="zh">The Rebuild: Inside the Montreal Canadiens</title>
+    <desc>The season is still young, but the Habs sit at the bottom; Martin St. Louis pushes his squad ahead of a game against the Sabres, a team that knows all about rebuilding; Patrik Laine is set to make his long-anticipated return.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="404833" start="20250923230000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From the Bell Centre in Montreal.</desc>
+    <date>2025-09-23</date>
   </programme>
 <channel id="405079">
     <display-name lang="Canada">TSN5</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405079" start="20250921003500 +0000" stop="20250921010000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
+  <programme channel="405079" start="20250922002000 +0000" stop="20250922033000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The Chiefs try to get right as they visit the Giants. Malik Nabers and Wan'Dale Robinson combined for over 300 yards receiving and three TDs, but New York fell to Dallas in overtime in Week 2. Kansas City is 0-2 for the first time since 2014.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405079" start="20250921010000 +0000" stop="20250921013500 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
+  <programme channel="405079" start="20250922033000 +0000" stop="20250922050000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405079" start="20250921013500 +0000" stop="20250921033500 +0000">
-    <title lang="zh">Live: 2025 World Rugby Pacific Nations Cup</title>
-    <desc>From America First Field in Sandy, Utah.</desc>
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="405079" start="20250921033500 +0000" stop="20250921040000 +0000">
+  <programme channel="405079" start="20250922050000 +0000" stop="20250922060000 +0000">
     <title lang="zh">Live: SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405079" start="20250921040000 +0000" stop="20250921043000 +0000">
+  <programme channel="405079" start="20250922060000 +0000" stop="20250922070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922070000 +0000" stop="20250922080000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922080000 +0000" stop="20250922090000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922090000 +0000" stop="20250922100000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922100000 +0000" stop="20250922110000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922110000 +0000" stop="20250922120000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922120000 +0000" stop="20250922130000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922130000 +0000" stop="20250922140000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922140000 +0000" stop="20250922150000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922150000 +0000" stop="20250922160000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922160000 +0000" stop="20250922163000 +0000">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405079" start="20250921043000 +0000" stop="20250921050000 +0000">
+  <programme channel="405079" start="20250922163000 +0000" stop="20250922170000 +0000">
+    <title lang="zh">2025 Motorcycle Experience</title>
+    <desc>News and reviews from cycle enthusiasts.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922170000 +0000" stop="20250922173000 +0000">
+    <title lang="zh">Canadian Superbike Championship</title>
+    <desc>From Canadian Tire Motorsport Park in Bowmanville, Ont.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922173000 +0000" stop="20250922180000 +0000">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405079" start="20250921050000 +0000" stop="20250921060000 +0000">
+  <programme channel="405079" start="20250922180000 +0000" stop="20250922183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922183000 +0000" stop="20250922190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922190000 +0000" stop="20250922210000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922210000 +0000" stop="20250922213000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922213000 +0000" stop="20250922220000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250922220000 +0000" stop="20250922230000 +0000">
     <title lang="zh">Live: SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="405079" start="20250921060000 +0000" stop="20250921070000 +0000">
+  <programme channel="405079" start="20250922230000 +0000" stop="20250923000000 +0000">
+    <title lang="zh">Live: NFL Monday Night Countdown</title>
+    <desc>An in-depth look at Monday's game and reviews of Sunday's games.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="405079" start="20250923001500 +0000" stop="20250923033000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>High-powered offenses battle when Baltimore hosts Detroit. The Ravens mauled the Browns 41-17 in Week 2, and squashed the Lions 38-6 when they met in 2023. Amon-Ra St. Brown hauled in three TD catches in Detroit's 52-21 Week 2 blasting of Chicago.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923033000 +0000" stop="20250923050000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923050000 +0000" stop="20250923060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923060000 +0000" stop="20250923070000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-23</date>
   </programme>
-  <programme channel="405079" start="20250921070000 +0000" stop="20250921080000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+  <programme channel="405079" start="20250923070000 +0000" stop="20250923080000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
   </programme>
-  <programme channel="405079" start="20250921080000 +0000" stop="20250921090000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+  <programme channel="405079" start="20250923080000 +0000" stop="20250923090000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
   </programme>
-  <programme channel="405079" start="20250921090000 +0000" stop="20250922000000 +0000">
-    <title lang="zh">SportsCentre</title>
+  <programme channel="405079" start="20250923090000 +0000" stop="20250923100000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923100000 +0000" stop="20250923110000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923110000 +0000" stop="20250923120000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923120000 +0000" stop="20250923130000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923130000 +0000" stop="20250923140000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923140000 +0000" stop="20250923150000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923150000 +0000" stop="20250923160000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923160000 +0000" stop="20250923163000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923163000 +0000" stop="20250923170000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923170000 +0000" stop="20250923173000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923173000 +0000" stop="20250923180000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923180000 +0000" stop="20250923183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923183000 +0000" stop="20250923190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923190000 +0000" stop="20250923200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923200000 +0000" stop="20250923210000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923210000 +0000" stop="20250923213000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923213000 +0000" stop="20250923220000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923220000 +0000" stop="20250923230000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-21</date>
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="405079" start="20250923230000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From Scotiabank Arena in Toronto.</desc>
+    <date>2025-09-23</date>
   </programme>
 <channel id="8821">
     <display-name lang="US">Willow Cricket HDTV (WILLOWHD)</display-name>
