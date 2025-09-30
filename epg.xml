@@ -4,51 +4,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20250929010000 +0000" stop="20250929013000 +0000">
-    <title lang="zh">IFSC Climbing World Championships</title>
-    <desc>Highlights from the IFSC Climbing World Championship in Seoul, South Korea.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400477" start="20250929013000 +0000" stop="20250929023000 +0000">
-    <title lang="zh">SailGP</title>
-    <desc>Highlights from the 2025 Rolex Switzerland Sail Grand Prix. Could Sebastien Schneiter's home team sail to victory on Lake Geneva?</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400477" start="20250929023000 +0000" stop="20250929033000 +0000">
-    <title lang="zh">Onboard</title>
-    <desc>We review the biggest stories and best action from the Ocean Race Europe 2025, which took the teams on a unique route from the Baltic Sea to a finish in Boka Bay, Montenegro.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400477" start="20250929033000 +0000" stop="20250929040000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400477" start="20250929040000 +0000" stop="20250929050000 +0000">
-    <title lang="zh">UCI Road World Championships</title>
-    <desc>Highlights from Cycling World Championship in Kigali, Rwanda.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400477" start="20250929050000 +0000" stop="20250929053000 +0000">
-    <title lang="zh">UEFA Champions League Magazine</title>
-    <desc>Ballon d'or winner Ousmane Dembele ranks five of PSG's best goals from their UCL winning campaign last season. And, we take a look at Jose Mourinho's return to Benfica.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400477" start="20250929053000 +0000" stop="20250929054500 +0000">
-    <title lang="zh">UEFA Europa League Goals Reload</title>
-    <desc>The pick of the goals from matchday one of the UEFA Europa League, including Aston Villa v Bologna, Rangers v Genk, Red Star v Celtic, and Real Betis v Nottm Forest.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400477" start="20250929054500 +0000" stop="20250929230000 +0000">
-    <title lang="zh">Live: Le Tour de Langkawi</title>
-    <desc>Men's Cycling Pro Series action from the second stage of the 2025 Tour of Langkawi in Malaysia, which takes the riders on a 167km route from Padang Besar to Kepala Batas.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400477" start="20250929230000 +0000" stop="20250930000000 +0000">
-    <title lang="zh">The Ultimate Fighting Championship</title>
-    <desc>Action from UFC Fight Night at RAC Arena in Perth, Australia, featuring the light heavyweight bout between Carlos Ulberg and Dominick Reyes.</desc>
-    <date>2025-09-29</date>
-  </programme>
   <programme channel="400477" start="20250930020000 +0000" stop="20250930023000 +0000">
     <title lang="zh">Fight Week</title>
     <desc>We preview UFC 320 at T-Mobile Arena in Paradise, Nevada, which will be headlined by the rematch between light heavyweight champion Magomed Ankalaev and Alex Pereira.</desc>
@@ -94,40 +49,45 @@
     <desc>Men's Cycling Pro Series action from the second stage of the 2025 Tour of Langkawi in Malaysia, which takes the riders on a 167km route from Padang Besar to Kepala Batas.</desc>
     <date>2025-09-30</date>
   </programme>
+  <programme channel="400477" start="20251001000000 +0000" stop="20251001003000 +0000">
+    <title lang="zh">Tom Aspinall's Fight Lab</title>
+    <desc>Tom Aspinall previews a huge card at UFC 320, which will feature Merab Dvalishvili v Cory Sandhagen and Magomed Ankalaev v Alex Pereira.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400477" start="20251001003000 +0000" stop="20251001034500 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Action from MLB Postseason.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400477" start="20251001034500 +0000" stop="20251001050000 +0000">
+    <title lang="zh">World Series Film</title>
+    <desc>Meet the 1997 Marlins, the first club to win the World Series as the Wild Card. Through six games Florida battled a stacked Indians club to a standstill. In Game 7, the Tribe was on the verge of winning the World Series.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400477" start="20251001050000 +0000" stop="20251001051500 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>What does the future hold for cricket in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how cricket can be a positive force for change.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400477" start="20251001051500 +0000" stop="20251001053000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the first T20 between Australia and South Africa at TIO Stadium in Darwin, featuring a starring performances by Tim David and Josh Hazlewood.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400477" start="20251001053000 +0000" stop="20251001054500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>We revisit the second T20 between Australia and South Africa at Marrara Stadium in Darwin. Dewald Brevis would put in a record-breaking performance for the visitors.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400477" start="20251001054500 +0000" stop="20251002000000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>We rewind to the third T20 between Australia and South Africa at Cazalys Stadium, which featured big-hitting innings from Glenn Maxwell, Dewald Brevis and Mitchell Marsh.</desc>
+    <date>2025-10-01</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20250929000000 +0000" stop="20250929010000 +0000">
-    <title lang="zh">WA World Athletics Championships</title>
-    <desc>We look back at the best stories and action from the 2025 World Athletics Championships in Tokyo, as Great Britain picked up five medals.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400480" start="20250929010000 +0000" stop="20250929020000 +0000">
-    <title lang="zh">UCI Road World Championships</title>
-    <desc>Highlights from Cycling World Championship in Kigali, Rwanda.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400480" start="20250929020000 +0000" stop="20250929030000 +0000">
-    <title lang="zh">PREM Rugby</title>
-    <desc>Action from the opening weekend of the 2025/26 Gallagher PREM season as Northampton Saints face Exeter Chiefs at cinch Stadium.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400480" start="20250929030000 +0000" stop="20250929040000 +0000">
-    <title lang="zh">PREM Rugby</title>
-    <desc>Action from the opening weekend of the 2025/26 Gallagher PREM campaign as Bristol Bears meet last season's runners-up Leicester Tigers at Ashton Gate.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400480" start="20250929040000 +0000" stop="20250929050000 +0000">
-    <title lang="zh">T100 Triathlon World Tour</title>
-    <desc>Highlights from the T100 Triathlon World Tour in Oropesa Del Mar, Spain. Brits Kate Waugh, Lucy Charles-Barclay, and Jess Learmonth were all in action.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400480" start="20250929050000 +0000" stop="20250930000000 +0000">
-    <title lang="zh">MotoGP Highlights</title>
-    <desc>Race action from the 2025 Moto3 Grand Prix of Japan at Mobility Resort Motegi. Can standings leader Jose Antonio Rueda secure his ninth win of the season?</desc>
-    <date>2025-09-29</date>
-  </programme>
   <programme channel="400480" start="20250930000000 +0000" stop="20250930010000 +0000">
     <title lang="zh">PREM Rugby</title>
     <desc>Action from the opening game of the 2025/26 Gallagher PREM season, as Sale Sharks and Gloucester Rugby go head-to-head at CorpAcq Stadium.</desc>
@@ -158,53 +118,50 @@
     <desc>A look back at the best from matchday six the Premier League, including Brentford v Man United, Newcastle v Arsenal and Chelsea v Brighton.</desc>
     <date>2025-09-30</date>
   </programme>
-<channel id="405060">
-    <display-name lang="Canada">TSN3</display-name>
-    <icon src="" />
-  </channel>
-<channel id="405134">
-    <display-name lang="Canada">TSN4</display-name>
-    <icon src="" />
-  </channel>
+  <programme channel="400480" start="20251001000000 +0000" stop="20251001001600 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001001600 +0000" stop="20251001011500 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Race action from the 2025 Moto3 Grand Prix of Japan at Mobility Resort Motegi. Can standings leader Jose Antonio Rueda secure his ninth win of the season?</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001011500 +0000" stop="20251001021500 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Race action from the 2025 Moto2 Grand Prix of Japan at Mobility Resort Motegi. Manuel Gonzalez topped the podium in this race last year.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001021500 +0000" stop="20251001024500 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>MotoGP action from the 2025 Grand Prix of Japan Sprint Race at Mobility Resort Motegi. Can Marc Marquez take another huge step towards sealing the MotoGP title?</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001024500 +0000" stop="20251001034500 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Race action from the 2025 MotoGP Grand Prix of Japan at Mobility Resort Motegi. Will Marc Marquez seal the MotoGP title in style?</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001034500 +0000" stop="20251001044500 +0000">
+    <title lang="zh">MotoGP Chequered Flag</title>
+    <desc>Post-race show featuring analysis, highlights and interviews with all the key riders following the 2025 Grand Prix of Japan at Mobility Resort Motegi.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001044500 +0000" stop="20251001050000 +0000">
+    <title lang="zh">World Superbike Rewind</title>
+    <desc>We rewind to relive the most exhilarating moments from the Aragon Round of the 2025 Superbike World Championship.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001050000 +0000" stop="20251002000000 +0000">
+    <title lang="zh">Live: Le Tour de Langkawi</title>
+    <desc>Men's Cycling Pro Series action from stage four of the Tour of Langkawi.</desc>
+    <date>2025-10-01</date>
+  </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400479" start="20250929011500 +0000" stop="20250929014500 +0000">
-    <title lang="zh">Tom Aspinall's Fight Lab</title>
-    <desc>Tom Aspinall previews a huge card at UFC 320, which will feature Merab Dvalishvili v Cory Sandhagen and Magomed Ankalaev v Alex Pereira.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400479" start="20250929014500 +0000" stop="20250929020000 +0000">
-    <title lang="zh">Training Day</title>
-    <desc>Peter Crouch, Steve Sidwell and Wayne Bridge head to West London to find out more about how Grenfell Athletic FC have been helping the community and bringing people together.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400479" start="20250929020000 +0000" stop="20250929023000 +0000">
-    <title lang="zh">MLB: Off The Bat</title>
-    <desc>All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400479" start="20250929023000 +0000" stop="20250929040000 +0000">
-    <title lang="zh">Ultimate Pool Pairs Cup</title>
-    <desc>Ultimate Pool action from Group 16 of the Pairs Cup, featuring Phil Parkin and Kristi Caulfield, Clayton Castaldi and Gary Carr, and Ben Doyle and Shaun Sharkey.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400479" start="20250929040000 +0000" stop="20250929050000 +0000">
-    <title lang="zh">T100 Triathlon World Tour</title>
-    <desc>Highlights from the T100 Triathlon World Tour in Oropesa Del Mar, Spain. Brits Kate Waugh, Lucy Charles-Barclay, and Jess Learmonth were all in action.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400479" start="20250929050000 +0000" stop="20250929233100 +0000">
-    <title lang="zh">PREM Rugby</title>
-    <desc>Action from the opening game of the 2025/26 Gallagher PREM season, as Sale Sharks and Gloucester Rugby go head-to-head at CorpAcq Stadium.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400479" start="20250929233100 +0000" stop="20250930000000 +0000">
-    <title lang="zh">Serie A Football</title>
-    <desc>Champions Napoli look to make it five league wins out of five as they face AC Milan at San Siro. Antonio Conte is unbeaten in seven of his nine meetings with Massimiliano Allegri.</desc>
-    <date>2025-09-29</date>
-  </programme>
   <programme channel="400479" start="20250930003000 +0000" stop="20250930013000 +0000">
     <title lang="zh">Serie A Football</title>
     <desc>Serie A action as Genoa host Lazio at Luigi Ferraris Stadium.</desc>
@@ -235,40 +192,60 @@
     <desc>Race action from the 2025 Moto3 Grand Prix of Japan at Mobility Resort Motegi. Can standings leader Jose Antonio Rueda secure his ninth win of the season?</desc>
     <date>2025-09-30</date>
   </programme>
+  <programme channel="400479" start="20251001000000 +0000" stop="20251001003000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>After suffering defeat against Bayern Munich last time out, Chelsea look to get off the mark as they welcome former boss Jose Mourinho and his Benfica side to Stamford Bridge.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001003000 +0000" stop="20251001010000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Tottenham Hotspur look to make it two UCL wins from two as they face Bodo/Glimt at Aspmyra Stadion. Spurs beat the Norwegian champions en route to the UEL final last season.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001010000 +0000" stop="20251001013000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Diego Simeone's Atletico Madrid look for a response to their dramatic defeat at Anfield as they welcome German side Eintracht Frankfurt to Riyadh Air Metropolitano.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001013000 +0000" stop="20251001020000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Roberto De Zerbi's Marseille face-off against John Heitinga's Ajax at Orange Velodrome. Both sides tasted defeat in their league phases openers.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001020000 +0000" stop="20251001023000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Pafos welcome Vincent Kompany's Bayern Munich to Alphamega Stadium. Can the Cypriot champions cause a massive upset against the six-time UEFA Champions League winners?</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001023000 +0000" stop="20251001030000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Cristian Chivu's Inter go head-to-head with Czech champions Slavia Prague at San Siro. Can the Italian giants make it two wins out of two in the league phase?</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001030000 +0000" stop="20251001040000 +0000">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Tuesday's UEFA Champions League matchday two fixtures, including Galatasaray v Liverpool, Chelsea v Benfica, and Bodo/Glimt v Spurs.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001040000 +0000" stop="20251001050000 +0000">
+    <title lang="zh">UEFA Europa League and Conference League Magazine</title>
+    <desc>A round-up of all the latest action and stories from the UEFA Europa League and Conference League.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001050000 +0000" stop="20251001053000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>After suffering defeat against Bayern Munich last time out, Chelsea look to get off the mark as they welcome former boss Jose Mourinho and his Benfica side to Stamford Bridge.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400479" start="20251001053000 +0000" stop="20251002000000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Tottenham Hotspur look to make it two UCL wins from two as they face Bodo/Glimt at Aspmyra Stadion. Spurs beat the Norwegian champions en route to the UEL final last season.</desc>
+    <date>2025-10-01</date>
+  </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400478" start="20250929000000 +0000" stop="20250929010000 +0000">
-    <title lang="zh">UEFA Europa League and Conference League Magazine</title>
-    <desc>A round-up of all the latest action and stories from the UEFA Europa League and Conference League.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400478" start="20250929010000 +0000" stop="20250929020000 +0000">
-    <title lang="zh">Serie A Football</title>
-    <desc>Champions Napoli look to make it five league wins out of five as they face AC Milan at San Siro. Antonio Conte is unbeaten in seven of his nine meetings with Massimiliano Allegri.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400478" start="20250929020000 +0000" stop="20250929030000 +0000">
-    <title lang="zh">EWC All Access</title>
-    <desc>Behind the scenes access to the 2025 Bol d'Or, a prestigious 24-hour motorcycle endurance race at Circuit Paul Ricard in France.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400478" start="20250929030000 +0000" stop="20250929050000 +0000">
-    <title lang="zh">Australia Championship Supercars</title>
-    <desc>Highlights from the 2025 Repco Supercars Championship and the AirTouch 500 at The Bend.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400478" start="20250929050000 +0000" stop="20250929053000 +0000">
-    <title lang="zh">Tom Aspinall's Fight Lab</title>
-    <desc>Tom Aspinall previews a huge card at UFC 320, which will feature Merab Dvalishvili v Cory Sandhagen and Magomed Ankalaev v Alex Pereira.</desc>
-    <date>2025-09-29</date>
-  </programme>
-  <programme channel="400478" start="20250929053000 +0000" stop="20250930000000 +0000">
-    <title lang="zh">Serie A Football</title>
-    <desc>Champions Napoli look to make it five league wins out of five as they face AC Milan at San Siro. Antonio Conte is unbeaten in seven of his nine meetings with Massimiliano Allegri.</desc>
-    <date>2025-09-29</date>
-  </programme>
   <programme channel="400478" start="20250930000000 +0000" stop="20250930010000 +0000">
     <title lang="zh">Ultra-Trail World Series</title>
     <desc>Highlights from the HOKA UTMB Mont-Blanc 2025, as the world's best trail runners battled through unpredictable weather and relentless terrain around the Mont-Blanc massif.</desc>
@@ -304,17 +281,59 @@
     <desc>Highlights from Major League Baseball.</desc>
     <date>2025-09-30</date>
   </programme>
-  <programme channel="400478" start="20250930050000 +0000" stop="20251001000000 +0000">
+  <programme channel="400478" start="20250930050000 +0000" stop="20250930213000 +0000">
     <title lang="zh">Women's One-Day International Cricket</title>
     <desc>Action from the first Women's One Day International between India and Australia at Maharaja Yadavindra Singh International Cricket Stadium.</desc>
     <date>2025-09-30</date>
   </programme>
-<channel id="405049">
-    <display-name lang="Canada">TSN1</display-name>
-    <icon src="" />
-  </channel>
-<channel id="405079">
-    <display-name lang="Canada">TSN5</display-name>
-    <icon src="" />
-  </channel>
+  <programme channel="400478" start="20250930213000 +0000" stop="20251001000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Action from MLB Postseason.</desc>
+    <date>2025-09-30</date>
+  </programme>
+  <programme channel="400478" start="20251001004500 +0000" stop="20251001011500 +0000">
+    <title lang="zh">Fight Week</title>
+    <desc>We preview UFC 320 at T-Mobile Arena in Paradise, Nevada, which will be headlined by the rematch between light heavyweight champion Magomed Ankalaev and Alex Pereira.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400478" start="20251001011500 +0000" stop="20251001013000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400478" start="20251001013000 +0000" stop="20251001023000 +0000">
+    <title lang="zh">UCI Continental Circuits</title>
+    <desc>Men's Cycling Pro Series action from stage one of the CRO Race in Croatia.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400478" start="20251001023000 +0000" stop="20251001033000 +0000">
+    <title lang="zh">Ultra-Trail World Series</title>
+    <desc>Highlights from the HOKA UTMB Mont-Blanc 2025, as the world's best trail runners battled through unpredictable weather and relentless terrain around the Mont-Blanc massif.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400478" start="20251001033000 +0000" stop="20251001040000 +0000">
+    <title lang="zh">SailGP: Racing on the Edge</title>
+    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400478" start="20251001040000 +0000" stop="20251001050000 +0000">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Angling magazine show presented by Rob Hughes and Andy Ford, featuring coverage of the 2025 Blue Fin Tuna Championship.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400478" start="20251001050000 +0000" stop="20251001051500 +0000">
+    <title lang="zh">World Superbike Rewind</title>
+    <desc>We rewind to relive the most exhilarating moments from the Aragon Round of the 2025 Superbike World Championship.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400478" start="20251001051500 +0000" stop="20251001053000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400478" start="20251001053000 +0000" stop="20251002000000 +0000">
+    <title lang="zh">UCI Continental Circuits</title>
+    <desc>Men's Cycling Pro Series action from stage one of the CRO Race in Croatia.</desc>
+    <date>2025-10-01</date>
+  </programme>
 </tv>
