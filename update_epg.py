@@ -1,17 +1,19 @@
 import requests
 
 urls = [
-    "https://epg.pw/api/epg.xml?channel_id=403626",
     "https://epg.pw/api/epg.xml?channel_id=400477",
     "https://epg.pw/api/epg.xml?channel_id=400480",
-    "https://epg.pw/api/epg.xml?channel_id=405060",
-    "https://epg.pw/api/epg.xml?channel_id=405134",
     "https://epg.pw/api/epg.xml?channel_id=400479",
     "https://epg.pw/api/epg.xml?channel_id=400478",
-    "https://epg.pw/api/epg.xml?channel_id=405049",
-    "https://epg.pw/api/epg.xml?channel_id=404833",
-    "https://epg.pw/api/epg.xml?channel_id=405079",
-    "https://epg.pw/api/epg.xml?channel_id=8821",
+    "https://epg.pw/api/epg.xml?channel_id=470446",
+    "https://epg.pw/api/epg.xml?channel_id=470550",
+    "https://epg.pw/api/epg.xml?channel_id=470888",
+    "https://epg.pw/api/epg.xml?channel_id=470730",
+    "https://epg.pw/api/epg.xml?channel_id=470390",
+    "https://epg.pw/api/epg.xml?channel_id=453374",
+    "https://epg.pw/api/epg.xml?channel_id=219100",
+    "https://epg.pw/api/epg.xml?channel_id=219104",
+    "https://epg.pw/api/epg.xml?channel_id=465006",
 ]
 
 output_file = "epg.xml"
