@@ -16,7 +16,7 @@ urls = [
     "https://epg.pw/api/epg.xml?channel_id=465006",
 ]
 
-output_file = "merged_epg.xml"
+output_file = "merged_epg_new.xml"
 
 
 def merge_epg(urls, output_file):
