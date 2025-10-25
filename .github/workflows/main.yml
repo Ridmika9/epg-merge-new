@@ -11,23 +11,40 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
 
       - name: Run EPG download script
         run: python update_epg.py
+
+      - name: Verify file and rename
+        run: |
+          if [ -f merged_epg_new.xml ]; then
+            echo "✅ Merged EPG file found."
+            mv merged_epg_new.xml epg.xml
+          else
+            echo "❌ merged_epg_new.xml not found!"
+            ls -al
+            exit 1
+          fi
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add epg.xml
-          git commit -m "Auto update EPG" || echo "No changes to commit"
+          git commit -m "Auto update EPG [skip ci]" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
+      - name: Upload merged EPG as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-latest
+          path: epg.xml
